@@ -32,6 +32,25 @@ node build-artifact.js  # rebuild index.html
 node build-csv.js       # rebuild pharmacies.csv
 ```
 
+### Automatic refresh
+
+`.github/workflows/refresh-data.yml` runs the three commands above on a daily
+schedule and commits the result if the data changed, which pushes a new commit
+that Vercel then auto-deploys.
+
+The **Refresh data** button on the page calls `/api/refresh` (a Vercel
+serverless function, `api/refresh.js`), which triggers that same workflow
+on demand via the GitHub Actions API — a full scrape takes minutes, so the
+button starts the job in the background rather than blocking the page.
+It's rate-limited to one trigger per hour.
+
+To enable the button, add a GitHub token as a Vercel environment variable:
+
+1. Create a token with `Contents: read/write` + `Actions: read/write` on this
+   repo (fine-grained PAT), or a classic PAT with the `repo` scope.
+2. `npx vercel env add GH_DISPATCH_TOKEN production` (paste the token when
+   prompted), then redeploy.
+
 ## Disclaimer
 
 This is an unofficial, independently built directory. Always verify current certification status at [register.jasanz.org](https://register.jasanz.org/certified-organisations) before relying on it.
