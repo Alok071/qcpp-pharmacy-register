@@ -8,7 +8,6 @@ const slim = data.map((d) => ({
   organisationName: d.organisationName,
   tradingName: d.tradingName,
   certificateNumber: d.certificateNumber,
-  certifiedBy: d.certifiedBy,
   city: d.city,
   country: d.country,
   status: d.status,

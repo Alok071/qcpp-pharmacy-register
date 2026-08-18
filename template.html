@@ -415,7 +415,6 @@
         <tr>
           <th data-key="organisationName">Organisation <span class="arrow">&#9662;</span></th>
           <th data-key="certificateNumber">Certificate ID <span class="arrow">&#9662;</span></th>
-          <th data-key="certifiedBy">Certified By <span class="arrow">&#9662;</span></th>
           <th data-key="city">Suburb / City <span class="arrow">&#9662;</span></th>
           <th data-key="country">Country <span class="arrow">&#9662;</span></th>
           <th data-key="status">Status <span class="arrow">&#9662;</span></th>
@@ -535,7 +534,7 @@
     countPill.textContent = filtered.length.toLocaleString() + " of " + data.length.toLocaleString() + " pharmacies";
 
     if (pageRows.length === 0) {
-      rowsEl.innerHTML = '<tr><td colspan="8"><div class="empty-state">No pharmacies match your search.</div></td></tr>';
+      rowsEl.innerHTML = '<tr><td colspan="7"><div class="empty-state">No pharmacies match your search.</div></td></tr>';
     } else {
       rowsEl.innerHTML = pageRows.map((d) => {
         const statusClass = d.status === "Active" ? "active" : d.status === "Expired" ? "expired" : "other";
@@ -545,7 +544,6 @@
             ${d.tradingName ? `<div class="trading-name">t/a ${escapeHtml(d.tradingName)}</div>` : ""}
           </td>
           <td class="mono">${escapeHtml(d.certificateNumber || "")}</td>
-          <td>${escapeHtml(d.certifiedBy || "")}</td>
           <td>${escapeHtml(titleCase(d.city) || "")}</td>
           <td>${escapeHtml(d.country || "")}</td>
           <td><span class="pill ${statusClass}"><span class="dot"></span>${escapeHtml(d.status || "")}</span></td>
