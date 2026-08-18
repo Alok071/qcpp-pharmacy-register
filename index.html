@@ -322,6 +322,10 @@
   .pill.other { background: var(--status-other-bg); color: var(--status-other-fg); }
   .pill.other .dot { background: var(--status-other-fg); }
 
+  .renew-link { margin-top: 5px; }
+  .renew-link a { color: var(--accent-ink); text-decoration: none; font-size: 12px; font-weight: 600; white-space: nowrap; }
+  .renew-link a:hover { text-decoration: underline; }
+
   .expiry.soon { color: var(--status-expiring-fg); font-weight: 600; }
   .expiry.past { color: var(--status-expired-fg); font-weight: 600; }
 
@@ -564,7 +568,10 @@
           <td>${renderContact(d)}</td>
           <td>${escapeHtml(titleCase(d.city) || "")}</td>
           <td>${escapeHtml(d.country || "")}</td>
-          <td><span class="pill ${statusClass}"><span class="dot"></span>${escapeHtml(d.status || "")}</span></td>
+          <td>
+            <span class="pill ${statusClass}"><span class="dot"></span>${escapeHtml(d.status || "")}</span>
+            ${d.status === "Expired" ? `<div class="renew-link"><a href="${buildRenewUrl(d)}" target="_blank" rel="noopener">Renew listing &#8599;</a></div>` : ""}
+          </td>
           <td class="mono">${fmt(d.certified)}</td>
           <td class="mono expiry ${d.expiryClass}">${fmt(d.expiry)}</td>
         </tr>`;
@@ -593,6 +600,42 @@
     paginationEl.querySelectorAll("button[data-page]").forEach((b) => {
       b.addEventListener("click", () => { page = parseInt(b.dataset.page, 10); render(); window.scrollTo({ top: 0, behavior: "instant" }); });
     });
+  }
+
+  const RENEW_FORM_BASE = "https://forms.pharmacyhive.au/262297597891074";
+
+  function dateParts(d) {
+    if (!d) return null;
+    return {
+      day: String(d.getDate()).padStart(2, "0"),
+      month: String(d.getMonth() + 1).padStart(2, "0"),
+      year: String(d.getFullYear()),
+    };
+  }
+
+  function buildRenewUrl(d) {
+    const params = new URLSearchParams();
+    const orgLabel = d.tradingName ? `${d.organisationName} (t/a ${d.tradingName})` : (d.organisationName || "");
+    if (orgLabel) params.set("q2_textbox0", orgLabel);
+    if (d.certificateNumber) params.set("q3_textbox1", String(d.certificateNumber));
+    const contact = d.email || d.phone || "";
+    if (contact) params.set("q4_textbox2", contact);
+    if (d.city) params.set("q5_textbox3", titleCase(d.city));
+    params.set("q6_dropdown4", "Australia");
+    if (d.status) params.set("q7_dropdown5", d.status);
+    const issued = dateParts(d.certified);
+    if (issued) {
+      params.set("q8_datetime6[month]", issued.month);
+      params.set("q8_datetime6[day]", issued.day);
+      params.set("q8_datetime6[year]", issued.year);
+    }
+    const expires = dateParts(d.expiry);
+    if (expires) {
+      params.set("q9_datetime7[month]", expires.month);
+      params.set("q9_datetime7[day]", expires.day);
+      params.set("q9_datetime7[year]", expires.year);
+    }
+    return `${RENEW_FORM_BASE}?${params.toString()}`;
   }
 
   function renderContact(d) {
