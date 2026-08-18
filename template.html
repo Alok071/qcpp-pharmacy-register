@@ -291,6 +291,11 @@
 
   .mono { font-variant-numeric: tabular-nums; color: var(--text-muted); }
 
+  .contact-cell { display: flex; flex-direction: column; gap: 2px; }
+  .contact-cell a { color: var(--accent-ink); text-decoration: none; font-size: 12.5px; white-space: nowrap; }
+  .contact-cell a:hover { text-decoration: underline; }
+  .text-faint { color: var(--text-faint); }
+
   .pill {
     display: inline-flex;
     align-items: center;
@@ -394,7 +399,7 @@
   <div class="toolbar-inner">
     <div class="search-wrap">
       <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-      <input type="search" id="search" placeholder="Search organisation, trading name, or suburb&hellip;" autocomplete="off" />
+      <input type="search" id="search" placeholder="Search organisation, trading name, suburb, phone, or email&hellip;" autocomplete="off" />
     </div>
     <div class="filter-group">
       <select id="status-filter">
@@ -415,6 +420,7 @@
         <tr>
           <th data-key="organisationName">Organisation <span class="arrow">&#9662;</span></th>
           <th data-key="certificateNumber">Certificate ID <span class="arrow">&#9662;</span></th>
+          <th>Contact</th>
           <th data-key="city">Suburb / City <span class="arrow">&#9662;</span></th>
           <th data-key="country">Country <span class="arrow">&#9662;</span></th>
           <th data-key="status">Status <span class="arrow">&#9662;</span></th>
@@ -505,7 +511,9 @@
         (d.organisationName && d.organisationName.toLowerCase().includes(q)) ||
         (d.tradingName && d.tradingName.toLowerCase().includes(q)) ||
         (d.city && d.city.toLowerCase().includes(q)) ||
-        (d.certificateNumber && String(d.certificateNumber).toLowerCase().includes(q))
+        (d.certificateNumber && String(d.certificateNumber).toLowerCase().includes(q)) ||
+        (d.phone && d.phone.includes(q)) ||
+        (d.email && d.email.toLowerCase().includes(q))
       );
     });
   }
@@ -534,7 +542,7 @@
     countPill.textContent = filtered.length.toLocaleString() + " of " + data.length.toLocaleString() + " pharmacies";
 
     if (pageRows.length === 0) {
-      rowsEl.innerHTML = '<tr><td colspan="7"><div class="empty-state">No pharmacies match your search.</div></td></tr>';
+      rowsEl.innerHTML = '<tr><td colspan="8"><div class="empty-state">No pharmacies match your search.</div></td></tr>';
     } else {
       rowsEl.innerHTML = pageRows.map((d) => {
         const statusClass = d.status === "Active" ? "active" : d.status === "Expired" ? "expired" : "other";
@@ -544,6 +552,7 @@
             ${d.tradingName ? `<div class="trading-name">t/a ${escapeHtml(d.tradingName)}</div>` : ""}
           </td>
           <td class="mono">${escapeHtml(d.certificateNumber || "")}</td>
+          <td>${renderContact(d)}</td>
           <td>${escapeHtml(titleCase(d.city) || "")}</td>
           <td>${escapeHtml(d.country || "")}</td>
           <td><span class="pill ${statusClass}"><span class="dot"></span>${escapeHtml(d.status || "")}</span></td>
@@ -575,6 +584,14 @@
     paginationEl.querySelectorAll("button[data-page]").forEach((b) => {
       b.addEventListener("click", () => { page = parseInt(b.dataset.page, 10); render(); window.scrollTo({ top: 0, behavior: "instant" }); });
     });
+  }
+
+  function renderContact(d) {
+    const parts = [];
+    if (d.phone) parts.push(`<a href="tel:${escapeHtml(d.phone.replace(/[^\d+]/g, ""))}">${escapeHtml(d.phone)}</a>`);
+    if (d.email) parts.push(`<a href="mailto:${escapeHtml(d.email)}">${escapeHtml(d.email)}</a>`);
+    if (!parts.length) return '<span class="text-faint">&mdash;</span>';
+    return `<div class="contact-cell">${parts.join("")}</div>`;
   }
 
   function titleCase(s) {

@@ -2,7 +2,7 @@
 
 A searchable directory of every Australian pharmacy certified under the Quality Care Pharmacy Program (QCPP), built from the public [JASANZ certified-organisations register](https://register.jasanz.org/certified-organisations).
 
-Live data fields: Organisation Name, Trading Name, Certificate ID, Certified By, Suburb/City, Country, Status, Current Certification Date, Certification Expiry Date.
+Live data fields: Organisation Name, Trading Name, Certificate ID, Suburb/City, Country, Status, Current Certification Date, Certification Expiry Date, plus Phone/Email/Website where a confident match was found (see below).
 
 ## How the data is sourced
 
@@ -15,19 +15,38 @@ Filtered to country = Australia and certifying body = Pharmacy Guild of Australi
 
 **Known API quirk:** the `PageNumber` field in the list endpoint is actually a raw record *offset*, not a 1-indexed page number (`PageNumber=1` skips 1 record, `PageNumber=200` skips 200). Naively treating it as a page index causes massive duplicate/skewed results. `fetch-data.js` accounts for this.
 
+### Contact details (phone / email / website)
+
+JASANZ doesn't publish contact details at all, so `fetch-contacts.js` cross-references
+each pharmacy against [healthdirect.gov.au](https://www.healthdirect.gov.au/australian-health-services)
+— the Australian government's public health service directory, which is free and has
+no API key — by searching its suburb and fuzzy-matching the organisation name against
+the results. Matches are only accepted when they're near-exact, or clearly ahead of
+the next-best candidate (see the threshold comments in `fetch-contacts.js`); ambiguous
+or no-match cases are left blank rather than risk showing the wrong pharmacy's phone
+number. This means coverage is partial by design — expect roughly 70-80% of pharmacies
+to have contact details, not 100%.
+
+Results are cached in `pharmacy-contacts.json` keyed by certificate ID, so repeated
+runs only look up pharmacies not already checked (i.e. new certificates), not the
+whole list every time.
+
 ## Files
 
 - `fetch-data.js` — scrapes the JASANZ API and writes `pharmacies.json` (run with `node fetch-data.js`)
-- `build-artifact.js` — builds `index.html` (and `pharmacy-directory.html`) from `template.html` + `pharmacies.json`
+- `fetch-contacts.js` — matches pharmacies against Healthdirect and writes `pharmacy-contacts.json`
+- `build-artifact.js` — builds `index.html` (and `pharmacy-directory.html`) from `template.html` + `pharmacies.json` + `pharmacy-contacts.json`
 - `build-csv.js` — exports `pharmacies.csv` for spreadsheet use
 - `template.html` — the page markup/styles/logic, with data injected at build time
 - `index.html` — the built, static, self-contained page (this is what gets deployed)
 - `pharmacies.json` / `pharmacies.csv` — the scraped dataset
+- `pharmacy-contacts.json` — cached Healthdirect contact matches
 
 ## Refreshing the data
 
 ```
 node fetch-data.js      # re-scrape from JASANZ (~2-3 min)
+node fetch-contacts.js  # match contact details against Healthdirect (first run: ~10-15 min; later runs only check new pharmacies)
 node build-artifact.js  # rebuild index.html
 node build-csv.js       # rebuild pharmacies.csv
 ```

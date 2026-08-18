@@ -3,17 +3,25 @@ const path = require("path");
 
 const data = JSON.parse(fs.readFileSync(path.join(__dirname, "pharmacies.json"), "utf8"));
 const template = fs.readFileSync(path.join(__dirname, "template.html"), "utf8");
+const contactsFile = path.join(__dirname, "pharmacy-contacts.json");
+const contacts = fs.existsSync(contactsFile) ? JSON.parse(fs.readFileSync(contactsFile, "utf8")) : {};
 
-const slim = data.map((d) => ({
-  organisationName: d.organisationName,
-  tradingName: d.tradingName,
-  certificateNumber: d.certificateNumber,
-  city: d.city,
-  country: d.country,
-  status: d.status,
-  currentCertificationDate: d.currentCertificationDate,
-  expiryDate: d.expiryDate,
-}));
+const slim = data.map((d) => {
+  const c = contacts[d.certificateId];
+  return {
+    organisationName: d.organisationName,
+    tradingName: d.tradingName,
+    certificateNumber: d.certificateNumber,
+    city: d.city,
+    country: d.country,
+    status: d.status,
+    currentCertificationDate: d.currentCertificationDate,
+    expiryDate: d.expiryDate,
+    phone: (c && c.matched && c.phone) || null,
+    email: (c && c.matched && c.email) || null,
+    website: (c && c.matched && c.website) || null,
+  };
+});
 
 const fetchDate = new Date().toLocaleDateString("en-AU", { day: "2-digit", month: "long", year: "numeric" });
 
