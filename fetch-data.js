@@ -136,8 +136,27 @@ async function main() {
     };
   });
 
-  fs.writeFileSync(OUT_FILE, JSON.stringify(merged, null, 2));
-  console.log(`Wrote ${merged.length} records to ${OUT_FILE}`);
+  // JASANZ removes a certificate from the register entirely once it expires,
+  // rather than keeping it listed with an "Expired" status — so a plain overwrite
+  // would silently lose every pharmacy the moment it lapses. Instead, keep anything
+  // from the previous run that's no longer in this run's results, marked Expired.
+  let previous = [];
+  if (fs.existsSync(OUT_FILE)) {
+    try {
+      previous = JSON.parse(fs.readFileSync(OUT_FILE, "utf8"));
+    } catch (e) {
+      console.error("Could not read previous pharmacies.json, starting fresh:", e.message);
+    }
+  }
+  const currentIds = new Set(merged.map((d) => d.certificateId));
+  const delisted = previous
+    .filter((d) => !currentIds.has(d.certificateId))
+    .map((d) => ({ ...d, status: "Expired", delistedAt: d.delistedAt || new Date().toISOString() }));
+
+  const final = [...merged, ...delisted];
+
+  fs.writeFileSync(OUT_FILE, JSON.stringify(final, null, 2));
+  console.log(`Wrote ${final.length} records to ${OUT_FILE} (${merged.length} on the live register, ${delisted.length} retained as expired/delisted)`);
 }
 
 main().catch((e) => {

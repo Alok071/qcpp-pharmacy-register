@@ -15,6 +15,14 @@ Filtered to country = Australia and certifying body = Pharmacy Guild of Australi
 
 **Known API quirk:** the `PageNumber` field in the list endpoint is actually a raw record *offset*, not a 1-indexed page number (`PageNumber=1` skips 1 record, `PageNumber=200` skips 200). Naively treating it as a page index causes massive duplicate/skewed results. `fetch-data.js` accounts for this.
 
+**Expired certificates aren't kept on JASANZ's own register** — it removes a certificate
+entirely on its expiry date rather than marking it "Expired" and leaving it listed. A
+plain re-scrape would therefore silently lose every pharmacy the moment it lapses, so
+`fetch-data.js` instead diffs against the previous `pharmacies.json`: anything missing
+from the fresh JASANZ results is retained with `status: "Expired"` and a `delistedAt`
+timestamp, rather than dropped. If a certificate later reappears (e.g. renewed after a
+gap), it's simply picked back up from the live results as normal.
+
 ### Contact details (phone / email / website)
 
 JASANZ doesn't publish contact details at all, so `fetch-contacts.js` cross-references

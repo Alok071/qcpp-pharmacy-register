@@ -85123,5 +85123,37 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Blooms The Chemist St Helens",
+    "tradingName": null,
+    "certificateNumber": "410",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "ST HELENS",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-19T00:00:00",
+    "expiryDate": "2026-08-19T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "f3b74706-b2cf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-08-18T22:45:45.153Z"
+  },
+  {
+    "organisationName": "Kingscliff 7-Day Chempro Chemist",
+    "tradingName": null,
+    "certificateNumber": "2267",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "KINGSCLIFF",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-19T00:00:00",
+    "expiryDate": "2026-08-19T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "f8432682-27be-40da-bf1c-430d75e726cc",
+    "delistedAt": "2026-08-18T22:45:45.164Z"
   }
 ]
