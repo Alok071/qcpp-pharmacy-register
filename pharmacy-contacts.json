@@ -42650,5 +42650,22 @@
     "email": "info@zuccolipharmacy.com",
     "website": "https://www.zuccolipharmacy.com/",
     "checkedAt": "2026-08-18T11:30:14.225Z"
+  },
+  "f8432682-27be-40da-bf1c-430d75e726cc": {
+    "matched": true,
+    "matchedOrgName": "Kingscliff 7-Day Chempro Chemist",
+    "score": 1,
+    "phone": "0266741140",
+    "email": "kingscliff@chempro.com.au",
+    "website": "https://www.chempro.com.au",
+    "checkedAt": "2026-08-18T22:54:03.572Z"
+  },
+  "f3b74706-b2cf-ed11-a7c7-00224818a1d1": {
+    "matched": true,
+    "matchedOrgName": "Blooms the Chemist St Helen's",
+    "score": 0.95,
+    "phone": "03 6376 1374",
+    "email": "sthelens@blooms.net.au",
+    "checkedAt": "2026-08-18T22:54:09.553Z"
   }
 }
