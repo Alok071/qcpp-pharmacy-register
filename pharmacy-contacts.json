@@ -42667,5 +42667,14 @@
     "phone": "03 6376 1374",
     "email": "sthelens@blooms.net.au",
     "checkedAt": "2026-08-18T22:54:09.553Z"
+  },
+  "1524701d-b5cf-ed11-a7c7-00224818a490": {
+    "matched": true,
+    "matchedOrgName": "Paddington Central Pharmacy",
+    "score": 1,
+    "phone": "07 3368 3843",
+    "email": "office@paddingtoncentralpharmacy.com.au",
+    "website": "http://www.paddingtoncentralpharmacy.com.au",
+    "checkedAt": "2026-08-19T19:27:33.771Z"
   }
 }

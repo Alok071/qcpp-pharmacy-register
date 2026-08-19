@@ -51720,6 +51720,21 @@
     "certificateId": "ee3bbb16-b0cf-ed11-a7c7-6045bd3d5090"
   },
   {
+    "organisationName": "Paddington Central Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "1588",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "PADDINGTON",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2026-08-19T00:00:00",
+    "expiryDate": "2028-11-19T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "1524701d-b5cf-ed11-a7c7-00224818a490"
+  },
+  {
     "organisationName": "Paddington Compounding Pharmacy",
     "tradingName": null,
     "certificateNumber": "422",
@@ -81345,21 +81360,6 @@
     "certificateId": "96386a00-d71d-48f2-ba5e-8897b754130d"
   },
   {
-    "organisationName": "Warringah Mall Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "5724",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BROOKVALE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-20T00:00:00",
-    "expiryDate": "2026-08-20T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "ce98f98d-afcf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Warwick Discount Drug Store",
     "tradingName": null,
     "certificateNumber": "123",
@@ -85123,6 +85123,22 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Warringah Mall Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "5724",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BROOKVALE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-20T00:00:00",
+    "expiryDate": "2026-08-20T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "ce98f98d-afcf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-08-19T19:27:27.955Z"
   },
   {
     "organisationName": "Blooms The Chemist St Helens",
