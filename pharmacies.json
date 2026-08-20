@@ -7800,21 +7800,6 @@
     "certificateId": "35051a9a-d166-4c69-b12d-091e90015508"
   },
   {
-    "organisationName": "Boland's Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "1783",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BURNIE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-21T00:00:00",
-    "expiryDate": "2026-08-21T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "1548d937-aecf-ed11-a7c7-00224818ac1c"
-  },
-  {
     "organisationName": "Bomaderry Pharmacy",
     "tradingName": null,
     "certificateNumber": "3130",
@@ -27825,21 +27810,6 @@
     "certificateId": "a3ea32d8-adcf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Direct Chemist Outlet Newtown",
-    "tradingName": null,
-    "certificateNumber": "2864",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "NEWTOWN",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-11T00:00:00",
-    "expiryDate": "2026-08-21T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "d691a663-adcf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Direct Chemist Outlet Northcote",
     "tradingName": null,
     "certificateNumber": "509",
@@ -31378,21 +31348,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "61e32278-b2cf-ed11-a7c7-00224818a1d1"
-  },
-  {
-    "organisationName": "Fiveways Pharmacy Taringa",
-    "tradingName": null,
-    "certificateNumber": "797",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "TARINGA",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-25T00:00:00",
-    "expiryDate": "2026-08-21T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "ce12b789-aecf-ed11-a7c7-00224818ac1c"
   },
   {
     "organisationName": "Flagstaff Hill Chemmart Pharmacy",
@@ -61800,21 +61755,6 @@
     "certificateId": "243cbb16-b0cf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Priceline Pharmacy Upper",
-    "tradingName": null,
-    "certificateNumber": "1378",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "CHATSWOOD",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-21T00:00:00",
-    "expiryDate": "2026-08-21T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "de828622-accf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Priceline Pharmacy Urangan",
     "tradingName": null,
     "certificateNumber": "2307",
@@ -62263,21 +62203,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6e6161b1-accf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Priceline Pharmacy Yamanto Central",
-    "tradingName": null,
-    "certificateNumber": "6860",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "YAMANTO",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-15T00:00:00",
-    "expiryDate": "2026-08-21T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "a66ee2b2-a245-43e0-ba7c-b7ed6cf5a8c9"
   },
   {
     "organisationName": "Priceline Pharmacy Yamba",
@@ -69913,21 +69838,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "3f266162-b3cf-ed11-a7c7-00224818ac1c"
-  },
-  {
-    "organisationName": "T&C Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "1107",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "MACKAY",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-25T00:00:00",
-    "expiryDate": "2026-08-21T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "b412b789-aecf-ed11-a7c7-00224818ac1c"
   },
   {
     "organisationName": "Tablelands Discount Drug Store",
@@ -85123,6 +85033,102 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Boland's Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "1783",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BURNIE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-21T00:00:00",
+    "expiryDate": "2026-08-21T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "1548d937-aecf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-08-20T19:33:55.321Z"
+  },
+  {
+    "organisationName": "Direct Chemist Outlet Newtown",
+    "tradingName": null,
+    "certificateNumber": "2864",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "NEWTOWN",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-11T00:00:00",
+    "expiryDate": "2026-08-21T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "d691a663-adcf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-08-20T19:33:55.321Z"
+  },
+  {
+    "organisationName": "Fiveways Pharmacy Taringa",
+    "tradingName": null,
+    "certificateNumber": "797",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "TARINGA",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-25T00:00:00",
+    "expiryDate": "2026-08-21T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "ce12b789-aecf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-08-20T19:33:55.321Z"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Upper",
+    "tradingName": null,
+    "certificateNumber": "1378",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "CHATSWOOD",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-21T00:00:00",
+    "expiryDate": "2026-08-21T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "de828622-accf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-08-20T19:33:55.321Z"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Yamanto Central",
+    "tradingName": null,
+    "certificateNumber": "6860",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "YAMANTO",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-15T00:00:00",
+    "expiryDate": "2026-08-21T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "a66ee2b2-a245-43e0-ba7c-b7ed6cf5a8c9",
+    "delistedAt": "2026-08-20T19:33:55.321Z"
+  },
+  {
+    "organisationName": "T&C Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "1107",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "MACKAY",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-25T00:00:00",
+    "expiryDate": "2026-08-21T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "b412b789-aecf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-08-20T19:33:55.321Z"
   },
   {
     "organisationName": "Warringah Mall Pharmacy",
