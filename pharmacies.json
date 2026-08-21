@@ -32550,21 +32550,6 @@
     "certificateId": "015afd04-f1de-4c81-a475-4a32a6b283fc"
   },
   {
-    "organisationName": "Garozzo Mitchelton Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "1136",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "MITCHELTON",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-22T00:00:00",
-    "expiryDate": "2026-08-22T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "97707fa5-aecf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "Gaslight Pharmacy",
     "tradingName": null,
     "certificateNumber": "2938",
@@ -55065,21 +55050,6 @@
     "certificateId": "8445f5a1-0431-4218-8869-741f1cd5f0aa"
   },
   {
-    "organisationName": "Pharmacy Select Lyndarum",
-    "tradingName": null,
-    "certificateNumber": "5939",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "EPPING",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-22T00:00:00",
-    "expiryDate": "2026-08-22T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "56f8bf49-d787-44e0-aa65-cfbd087f8261"
-  },
-  {
     "organisationName": "Pharmacy Select Manor Lakes",
     "tradingName": null,
     "certificateNumber": "5635",
@@ -55108,21 +55078,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "9f1b95ef-4460-405c-aee3-35861a3187ee"
-  },
-  {
-    "organisationName": "Pharmacy World Discount Chemist",
-    "tradingName": null,
-    "certificateNumber": "3624",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "ALEXANDER HEIGHTS",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-22T00:00:00",
-    "expiryDate": "2026-08-22T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "bd126945-aecf-ed11-a7c7-00224818a1d1"
   },
   {
     "organisationName": "Pharmacy4Less Ashfield",
@@ -85033,6 +84988,54 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Garozzo Mitchelton Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "1136",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "MITCHELTON",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-22T00:00:00",
+    "expiryDate": "2026-08-22T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "97707fa5-aecf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-08-21T19:28:23.214Z"
+  },
+  {
+    "organisationName": "Pharmacy Select Lyndarum",
+    "tradingName": null,
+    "certificateNumber": "5939",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "EPPING",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-22T00:00:00",
+    "expiryDate": "2026-08-22T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "56f8bf49-d787-44e0-aa65-cfbd087f8261",
+    "delistedAt": "2026-08-21T19:28:23.214Z"
+  },
+  {
+    "organisationName": "Pharmacy World Discount Chemist",
+    "tradingName": null,
+    "certificateNumber": "3624",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "ALEXANDER HEIGHTS",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-22T00:00:00",
+    "expiryDate": "2026-08-22T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "bd126945-aecf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-08-21T19:28:23.214Z"
   },
   {
     "organisationName": "Boland's Pharmacy",
