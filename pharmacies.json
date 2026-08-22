@@ -26595,21 +26595,6 @@
     "certificateId": "5d10a977-afa7-466c-a4b4-19dd9016a2f6"
   },
   {
-    "organisationName": "Direct Chemist Outlet - Blacksmiths",
-    "tradingName": null,
-    "certificateNumber": "807",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BLACKSMITHS",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-23T00:00:00",
-    "expiryDate": "2026-08-23T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "f6e7614e-accf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "Direct Chemist Outlet - Echuca West",
     "tradingName": null,
     "certificateNumber": "7031",
@@ -38248,21 +38233,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "8dba2033-b0cf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Imes Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "1067",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "SOUTH MELBOURNE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-23T00:00:00",
-    "expiryDate": "2026-08-23T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "b1a16230-0935-4eb5-89f7-15742dd5a4dc"
   },
   {
     "organisationName": "In 2 Health Pharmacy Mt Annan",
@@ -69435,21 +69405,6 @@
     "certificateId": "14dbab8e-b0cf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Superpharm Zillmere",
-    "tradingName": null,
-    "certificateNumber": "3864",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "ZILLMERE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-23T00:00:00",
-    "expiryDate": "2026-08-23T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "c80fb70f-b5cf-ed11-a7c7-00224818ac1c"
-  },
-  {
     "organisationName": "Supersave Chemist - Asquith",
     "tradingName": null,
     "certificateNumber": "5045",
@@ -84988,6 +84943,54 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Direct Chemist Outlet - Blacksmiths",
+    "tradingName": null,
+    "certificateNumber": "807",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BLACKSMITHS",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-23T00:00:00",
+    "expiryDate": "2026-08-23T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "f6e7614e-accf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-08-22T19:24:27.375Z"
+  },
+  {
+    "organisationName": "Imes Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "1067",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "SOUTH MELBOURNE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-23T00:00:00",
+    "expiryDate": "2026-08-23T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "b1a16230-0935-4eb5-89f7-15742dd5a4dc",
+    "delistedAt": "2026-08-22T19:24:27.375Z"
+  },
+  {
+    "organisationName": "Superpharm Zillmere",
+    "tradingName": null,
+    "certificateNumber": "3864",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "ZILLMERE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-23T00:00:00",
+    "expiryDate": "2026-08-23T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "c80fb70f-b5cf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-08-22T19:24:27.375Z"
   },
   {
     "organisationName": "Garozzo Mitchelton Pharmacy",
