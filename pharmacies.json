@@ -71640,21 +71640,6 @@
     "certificateId": "5c8eab7d-af24-41ad-a22a-322f7a1dc5e1"
   },
   {
-    "organisationName": "TerryWhite Chemmart Balwyn",
-    "tradingName": null,
-    "certificateNumber": "3497",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BALWYN",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-09T00:00:00",
-    "expiryDate": "2026-08-25T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "0d54964c-b0cf-ed11-a7c7-00224818ac1c"
-  },
-  {
     "organisationName": "TerryWhite Chemmart Banksia Grove",
     "tradingName": null,
     "certificateNumber": "6250",
@@ -84928,6 +84913,22 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "TerryWhite Chemmart Balwyn",
+    "tradingName": null,
+    "certificateNumber": "3497",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BALWYN",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-09T00:00:00",
+    "expiryDate": "2026-08-25T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "0d54964c-b0cf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-08-24T19:31:30.405Z"
   },
   {
     "organisationName": "Greg's Discount Chemist Southern River",
