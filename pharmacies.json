@@ -22335,21 +22335,6 @@
     "certificateId": "9284acec-b0cf-ed11-a7c7-00224818a1d1"
   },
   {
-    "organisationName": "Cincotta Chemist Campsie",
-    "tradingName": null,
-    "certificateNumber": "4007",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "CAMPSIE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-26T00:00:00",
-    "expiryDate": "2026-08-26T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "ecc954d3-afcf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Cincotta Chemist Caringbah",
     "tradingName": null,
     "certificateNumber": "5787",
@@ -25723,21 +25708,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "67ad7e4f-b2cf-ed11-a7c7-00224818ac1c"
-  },
-  {
-    "organisationName": "Dalyellup Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "5681",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "DALYELLUP",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-26T00:00:00",
-    "expiryDate": "2026-08-26T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "7d846fb8-217c-4be5-b1c0-c3ddb7179ffe"
   },
   {
     "organisationName": "Dampier Pharmacy",
@@ -29548,21 +29518,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "0a0a7130-1c34-44df-977a-546735b677e3"
-  },
-  {
-    "organisationName": "East Gosford Chemsave",
-    "tradingName": null,
-    "certificateNumber": "40",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "EAST GOSFORD",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-26T00:00:00",
-    "expiryDate": "2026-08-26T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "3783e281-ae51-45b8-8c6e-4016d0a1a55c"
   },
   {
     "organisationName": "East Gosford Pharmacy",
@@ -40693,21 +40648,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "ddd658bd-aecf-ed11-a7c7-00224818a1d1"
-  },
-  {
-    "organisationName": "Kingswood Medical Centre Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "6402",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "ORCHARD HILLS",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-26T00:00:00",
-    "expiryDate": "2026-08-26T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "5ef2c860-accf-ed11-a7c7-6045bd3d5090"
   },
   {
     "organisationName": "Kinross Pharmacy",
@@ -84913,6 +84853,70 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Cincotta Chemist Campsie",
+    "tradingName": null,
+    "certificateNumber": "4007",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "CAMPSIE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-26T00:00:00",
+    "expiryDate": "2026-08-26T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "ecc954d3-afcf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-08-25T19:34:20.644Z"
+  },
+  {
+    "organisationName": "Dalyellup Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "5681",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "DALYELLUP",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-26T00:00:00",
+    "expiryDate": "2026-08-26T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "7d846fb8-217c-4be5-b1c0-c3ddb7179ffe",
+    "delistedAt": "2026-08-25T19:34:20.644Z"
+  },
+  {
+    "organisationName": "East Gosford Chemsave",
+    "tradingName": null,
+    "certificateNumber": "40",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "EAST GOSFORD",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-26T00:00:00",
+    "expiryDate": "2026-08-26T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "3783e281-ae51-45b8-8c6e-4016d0a1a55c",
+    "delistedAt": "2026-08-25T19:34:20.644Z"
+  },
+  {
+    "organisationName": "Kingswood Medical Centre Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "6402",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "ORCHARD HILLS",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-26T00:00:00",
+    "expiryDate": "2026-08-26T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "5ef2c860-accf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-08-25T19:34:20.644Z"
   },
   {
     "organisationName": "TerryWhite Chemmart Balwyn",
