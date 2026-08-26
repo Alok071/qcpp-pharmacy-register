@@ -56355,21 +56355,6 @@
     "certificateId": "f14554e8-b3cf-ed11-a7c7-00224818ac1c"
   },
   {
-    "organisationName": "Priceline Pharmacy Ashfield",
-    "tradingName": null,
-    "certificateNumber": "1863",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "ASHFIELD",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-27T00:00:00",
-    "expiryDate": "2026-08-27T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "1c967228-b1cf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "Priceline Pharmacy Ashgrove",
     "tradingName": null,
     "certificateNumber": "2028",
@@ -84675,21 +84660,6 @@
     "certificateId": "8aadddf9-af8f-4482-adf6-1cc2ace15eb4"
   },
   {
-    "organisationName": "Your Family Chemist Punchbowl",
-    "tradingName": null,
-    "certificateNumber": "3957",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "PUNCHBOWL",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-27T00:00:00",
-    "expiryDate": "2026-08-27T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "a33a9c5a-accf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Your Pharmacy Alma Village",
     "tradingName": null,
     "certificateNumber": "77",
@@ -84853,6 +84823,38 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Ashfield",
+    "tradingName": null,
+    "certificateNumber": "1863",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "ASHFIELD",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-27T00:00:00",
+    "expiryDate": "2026-08-27T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "1c967228-b1cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-08-26T21:43:25.296Z"
+  },
+  {
+    "organisationName": "Your Family Chemist Punchbowl",
+    "tradingName": null,
+    "certificateNumber": "3957",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "PUNCHBOWL",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-27T00:00:00",
+    "expiryDate": "2026-08-27T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "a33a9c5a-accf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-08-26T21:43:25.296Z"
   },
   {
     "organisationName": "Cincotta Chemist Campsie",
