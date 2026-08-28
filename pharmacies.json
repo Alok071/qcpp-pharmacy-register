@@ -22695,21 +22695,6 @@
     "certificateId": "3d5f7d43-b2cf-ed11-a7c7-00224818a490"
   },
   {
-    "organisationName": "Cincotta Discount Chemist Mascot",
-    "tradingName": null,
-    "certificateNumber": "1001",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "MASCOT",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-28T00:00:00",
-    "expiryDate": "2026-08-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "50c86ba5-accf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "Cincotta Discount Chemist Merrylands no 2",
     "tradingName": null,
     "certificateNumber": "6060",
@@ -23263,21 +23248,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "a235d72b-aecf-ed11-a7c7-00224818ac1c"
-  },
-  {
-    "organisationName": "Clermont Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "1912",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "CLERMONT",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-08T00:00:00",
-    "expiryDate": "2026-08-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "c752365d-5c55-4121-9678-c0d0eb059cd5"
   },
   {
     "organisationName": "Cleve Pharmacy",
@@ -28140,21 +28110,6 @@
     "certificateId": "e398f98d-afcf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Direct Chemist Outlet Strathpine",
-    "tradingName": null,
-    "certificateNumber": "5406",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "STRATHPINE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-29T00:00:00",
-    "expiryDate": "2026-08-29T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "a330c77b-d9fd-4736-b131-1d6a103cc801"
-  },
-  {
     "organisationName": "Direct Chemist Outlet Sunbury",
     "tradingName": null,
     "certificateNumber": "6740",
@@ -29593,21 +29548,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "4c2fc643-adcf-ed11-a7c7-00224818a1d1"
-  },
-  {
-    "organisationName": "East Oakleigh Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "145",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "OAKLEIGH EAST",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-30T00:00:00",
-    "expiryDate": "2026-08-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "0db8269c-d7b5-4dbc-847a-151703b40c63"
   },
   {
     "organisationName": "East Ryde Pharmacy",
@@ -37755,21 +37695,6 @@
     "certificateId": "16a45be7-b1cf-ed11-a7c7-00224818ac1c"
   },
   {
-    "organisationName": "HPS Pharmacies Darlinghurst",
-    "tradingName": null,
-    "certificateNumber": "5109",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "DARLINGHURST",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-28T00:00:00",
-    "expiryDate": "2026-08-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "14f548d4-9b4b-411d-87be-720ea29789a7"
-  },
-  {
     "organisationName": "HPS Pharmacies Darwin",
     "tradingName": null,
     "certificateNumber": "6726",
@@ -38218,21 +38143,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "69f2c860-accf-ed11-a7c7-6045bd3d5090"
-  },
-  {
-    "organisationName": "Infinity Pharmacy Castletown",
-    "tradingName": null,
-    "certificateNumber": "6582",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "HYDE PARK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-30T00:00:00",
-    "expiryDate": "2026-08-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "1454964c-b0cf-ed11-a7c7-00224818ac1c"
   },
   {
     "organisationName": "Infinity Pharmacy Earlville Lower",
@@ -40003,21 +39913,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "198060e4-afcf-ed11-a7c7-00224818a1d1"
-  },
-  {
-    "organisationName": "Kenmore Village Discount Drug Store",
-    "tradingName": null,
-    "certificateNumber": "1338",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "KENMORE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-28T00:00:00",
-    "expiryDate": "2026-08-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "73ba2033-b0cf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Kennedy's Pharmacy",
@@ -53970,21 +53865,6 @@
     "certificateId": "d089431e-c399-43d3-9bfb-ad7aac64af4d"
   },
   {
-    "organisationName": "Pharmacy 777 Inglewood",
-    "tradingName": null,
-    "certificateNumber": "3384",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "INGLEWOOD",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-28T00:00:00",
-    "expiryDate": "2026-08-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "13cf64ab-d2ea-4298-a92f-546941e54173"
-  },
-  {
     "organisationName": "Pharmacy 777 Jindalee",
     "tradingName": null,
     "certificateNumber": "5369",
@@ -61035,21 +60915,6 @@
     "certificateId": "4074a983-adcf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Priceline Pharmacy Stockland Aitkenvale",
-    "tradingName": null,
-    "certificateNumber": "2642",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "AITKENVALE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-30T00:00:00",
-    "expiryDate": "2026-08-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "ec68b3c1-b0cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Priceline Pharmacy Stockland Hervey Bay",
     "tradingName": null,
     "certificateNumber": "6710",
@@ -61348,21 +61213,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "218b9c91-afcf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Priceline Pharmacy The Willows",
-    "tradingName": null,
-    "certificateNumber": "2604",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "THURINGOWA CENTRAL",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-10T00:00:00",
-    "expiryDate": "2026-08-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "79266162-b3cf-ed11-a7c7-00224818ac1c"
   },
   {
     "organisationName": "Priceline Pharmacy Thompson Parkway",
@@ -64828,21 +64678,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6e348435-2331-440c-b672-41504778552e"
-  },
-  {
-    "organisationName": "Rothnies Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "4712",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "INNISFAIL",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-05T00:00:00",
-    "expiryDate": "2026-08-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "bf56343a-b4cb-47c8-9ee3-bb8bd36cfe19"
   },
   {
     "organisationName": "Roths Medisave Pharmacy",
@@ -74175,21 +74010,6 @@
     "certificateId": "ddc1c886-b1cf-ed11-a7c7-00224818a490"
   },
   {
-    "organisationName": "TerryWhite Chemmart Lilydale",
-    "tradingName": null,
-    "certificateNumber": "4120",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "LILYDALE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-15T00:00:00",
-    "expiryDate": "2026-08-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "154e4f1b-b4cf-ed11-a7c7-00224818ac1c"
-  },
-  {
     "organisationName": "TerryWhite Chemmart Lindisfarne Medical",
     "tradingName": null,
     "certificateNumber": "2591",
@@ -75598,21 +75418,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "4946ee11-b0cf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "TerryWhite Chemmart Rundle Mall",
-    "tradingName": null,
-    "certificateNumber": "4525",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "ADELAIDE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-28T00:00:00",
-    "expiryDate": "2026-08-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "9eed9497-afcf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Terrywhite Chemmart Rural View",
@@ -77893,21 +77698,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "c619a2ef-b2cf-ed11-a7c7-00224818ac1c"
-  },
-  {
-    "organisationName": "Thrive Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "459",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "ANNANDALE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-07T00:00:00",
-    "expiryDate": "2026-08-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "98189301-b4cf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Thurgoona Family Pharmacy",
@@ -84823,6 +84613,230 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Cincotta Discount Chemist Mascot",
+    "tradingName": null,
+    "certificateNumber": "1001",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "MASCOT",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-28T00:00:00",
+    "expiryDate": "2026-08-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "50c86ba5-accf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-08-28T02:28:28.507Z"
+  },
+  {
+    "organisationName": "Clermont Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "1912",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "CLERMONT",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-08T00:00:00",
+    "expiryDate": "2026-08-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "c752365d-5c55-4121-9678-c0d0eb059cd5",
+    "delistedAt": "2026-08-28T02:28:28.507Z"
+  },
+  {
+    "organisationName": "Direct Chemist Outlet Strathpine",
+    "tradingName": null,
+    "certificateNumber": "5406",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "STRATHPINE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-29T00:00:00",
+    "expiryDate": "2026-08-29T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "a330c77b-d9fd-4736-b131-1d6a103cc801",
+    "delistedAt": "2026-08-28T02:28:28.507Z"
+  },
+  {
+    "organisationName": "East Oakleigh Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "145",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "OAKLEIGH EAST",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-30T00:00:00",
+    "expiryDate": "2026-08-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "0db8269c-d7b5-4dbc-847a-151703b40c63",
+    "delistedAt": "2026-08-28T02:28:28.507Z"
+  },
+  {
+    "organisationName": "HPS Pharmacies Darlinghurst",
+    "tradingName": null,
+    "certificateNumber": "5109",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "DARLINGHURST",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-28T00:00:00",
+    "expiryDate": "2026-08-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "14f548d4-9b4b-411d-87be-720ea29789a7",
+    "delistedAt": "2026-08-28T02:28:28.507Z"
+  },
+  {
+    "organisationName": "Infinity Pharmacy Castletown",
+    "tradingName": null,
+    "certificateNumber": "6582",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "HYDE PARK",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-30T00:00:00",
+    "expiryDate": "2026-08-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "1454964c-b0cf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-08-28T02:28:28.507Z"
+  },
+  {
+    "organisationName": "Kenmore Village Discount Drug Store",
+    "tradingName": null,
+    "certificateNumber": "1338",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "KENMORE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-28T00:00:00",
+    "expiryDate": "2026-08-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "73ba2033-b0cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-08-28T02:28:28.507Z"
+  },
+  {
+    "organisationName": "Pharmacy 777 Inglewood",
+    "tradingName": null,
+    "certificateNumber": "3384",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "INGLEWOOD",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-28T00:00:00",
+    "expiryDate": "2026-08-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "13cf64ab-d2ea-4298-a92f-546941e54173",
+    "delistedAt": "2026-08-28T02:28:28.507Z"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Stockland Aitkenvale",
+    "tradingName": null,
+    "certificateNumber": "2642",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "AITKENVALE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-30T00:00:00",
+    "expiryDate": "2026-08-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "ec68b3c1-b0cf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-08-28T02:28:28.507Z"
+  },
+  {
+    "organisationName": "Priceline Pharmacy The Willows",
+    "tradingName": null,
+    "certificateNumber": "2604",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "THURINGOWA CENTRAL",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-10T00:00:00",
+    "expiryDate": "2026-08-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "79266162-b3cf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-08-28T02:28:28.507Z"
+  },
+  {
+    "organisationName": "Rothnies Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "4712",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "INNISFAIL",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-05T00:00:00",
+    "expiryDate": "2026-08-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "bf56343a-b4cb-47c8-9ee3-bb8bd36cfe19",
+    "delistedAt": "2026-08-28T02:28:28.507Z"
+  },
+  {
+    "organisationName": "TerryWhite Chemmart Lilydale",
+    "tradingName": null,
+    "certificateNumber": "4120",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "LILYDALE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-15T00:00:00",
+    "expiryDate": "2026-08-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "154e4f1b-b4cf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-08-28T02:28:28.507Z"
+  },
+  {
+    "organisationName": "TerryWhite Chemmart Rundle Mall",
+    "tradingName": null,
+    "certificateNumber": "4525",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "ADELAIDE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-28T00:00:00",
+    "expiryDate": "2026-08-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "9eed9497-afcf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-08-28T02:28:28.507Z"
+  },
+  {
+    "organisationName": "Thrive Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "459",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "ANNANDALE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-07T00:00:00",
+    "expiryDate": "2026-08-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "98189301-b4cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-08-28T02:28:28.507Z"
   },
   {
     "organisationName": "Priceline Pharmacy Ashfield",
