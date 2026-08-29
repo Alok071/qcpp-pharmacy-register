@@ -11205,21 +11205,6 @@
     "certificateId": "ccf4555b-b4cf-ed11-a7c7-00224818ac1c"
   },
   {
-    "organisationName": "Casey's Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "525",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BALWYN",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-30T00:00:00",
-    "expiryDate": "2026-08-30T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "146eb154-5f47-4659-b902-ab7e40f09349"
-  },
-  {
     "organisationName": "Cashmere Chempro Chemist",
     "tradingName": null,
     "certificateNumber": "6212",
@@ -27418,21 +27403,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "5f431e83-b3cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
-    "organisationName": "Direct Chemist Outlet Keysborough South",
-    "tradingName": null,
-    "certificateNumber": "6565",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "KEYSBOROUGH",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-30T00:00:00",
-    "expiryDate": "2026-08-30T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "754dad0c-9bc6-4592-abf4-4e1a7d40f6a4"
   },
   {
     "organisationName": "Direct Chemist Outlet Kilcoy",
@@ -61020,21 +60990,6 @@
     "certificateId": "33098d7a-e03f-4000-911d-6824fb00bfb7"
   },
   {
-    "organisationName": "Priceline Pharmacy Sutherland",
-    "tradingName": null,
-    "certificateNumber": "2819",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "SUTHERLAND",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-30T00:00:00",
-    "expiryDate": "2026-08-30T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "28bf12d8-b2cf-ed11-a7c7-00224818a1d1"
-  },
-  {
     "organisationName": "Priceline Pharmacy Swan Hill",
     "tradingName": null,
     "certificateNumber": "1717",
@@ -75330,21 +75285,6 @@
     "certificateId": "e7c954d3-afcf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "TerryWhite Chemmart Rivervale",
-    "tradingName": null,
-    "certificateNumber": "1637",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "RIVERVALE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-30T00:00:00",
-    "expiryDate": "2026-08-30T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "9dfc4469-afcf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "TerryWhite Chemmart Rosebud",
     "tradingName": null,
     "certificateNumber": "3068",
@@ -75418,21 +75358,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "4946ee11-b0cf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Terrywhite Chemmart Rural View",
-    "tradingName": null,
-    "certificateNumber": "6166",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "RURAL VIEW",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-30T00:00:00",
-    "expiryDate": "2026-08-30T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "37b5c48f-3ac3-4544-a5ab-2c4abdae21ad"
   },
   {
     "organisationName": "TerryWhite Chemmart Samford",
@@ -81330,21 +81255,6 @@
     "certificateId": "3b924b6f-afcf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Wentworthville Medical Centre Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "5314",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WENTWORTHVILLE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-30T00:00:00",
-    "expiryDate": "2026-08-30T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "24c14419-afcf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Werribee Discount Chemist",
     "tradingName": null,
     "certificateNumber": "1393",
@@ -84613,6 +84523,102 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Casey's Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "525",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BALWYN",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-30T00:00:00",
+    "expiryDate": "2026-08-30T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "146eb154-5f47-4659-b902-ab7e40f09349",
+    "delistedAt": "2026-08-29T02:02:14.726Z"
+  },
+  {
+    "organisationName": "Direct Chemist Outlet Keysborough South",
+    "tradingName": null,
+    "certificateNumber": "6565",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "KEYSBOROUGH",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-30T00:00:00",
+    "expiryDate": "2026-08-30T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "754dad0c-9bc6-4592-abf4-4e1a7d40f6a4",
+    "delistedAt": "2026-08-29T02:02:14.726Z"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Sutherland",
+    "tradingName": null,
+    "certificateNumber": "2819",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "SUTHERLAND",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-30T00:00:00",
+    "expiryDate": "2026-08-30T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "28bf12d8-b2cf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-08-29T02:02:14.726Z"
+  },
+  {
+    "organisationName": "TerryWhite Chemmart Rivervale",
+    "tradingName": null,
+    "certificateNumber": "1637",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "RIVERVALE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-30T00:00:00",
+    "expiryDate": "2026-08-30T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "9dfc4469-afcf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-08-29T02:02:14.726Z"
+  },
+  {
+    "organisationName": "Terrywhite Chemmart Rural View",
+    "tradingName": null,
+    "certificateNumber": "6166",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "RURAL VIEW",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-30T00:00:00",
+    "expiryDate": "2026-08-30T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "37b5c48f-3ac3-4544-a5ab-2c4abdae21ad",
+    "delistedAt": "2026-08-29T02:02:14.726Z"
+  },
+  {
+    "organisationName": "Wentworthville Medical Centre Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "5314",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WENTWORTHVILLE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-30T00:00:00",
+    "expiryDate": "2026-08-30T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "24c14419-afcf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-08-29T02:02:14.726Z"
   },
   {
     "organisationName": "Cincotta Discount Chemist Mascot",
