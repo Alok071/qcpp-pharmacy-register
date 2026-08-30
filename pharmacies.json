@@ -225,21 +225,6 @@
     "certificateId": "6c6d2e86-058a-4ba9-a0dc-475dd56f0d5a"
   },
   {
-    "organisationName": "Advanced Health Pharmacy Bankstown",
-    "tradingName": null,
-    "certificateNumber": "4082",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BANKSTOWN",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-31T00:00:00",
-    "expiryDate": "2026-08-31T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "1fc071e7-abcf-ed11-a7c7-00224818a1d1"
-  },
-  {
     "organisationName": "Advantage Darley Plaza Pharmacy",
     "tradingName": null,
     "certificateNumber": "3368",
@@ -40455,21 +40440,6 @@
     "certificateId": "c9e844b8-b1cf-ed11-a7c7-00224818a490"
   },
   {
-    "organisationName": "Kingsway Day & Night",
-    "tradingName": null,
-    "certificateNumber": "4663",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WOOLOOWARE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-28T00:00:00",
-    "expiryDate": "2026-08-31T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "b03c81ff-036c-4205-b44f-8cd00e452136"
-  },
-  {
     "organisationName": "Kingsway Medical Centre Pharmacy",
     "tradingName": null,
     "certificateNumber": "1265",
@@ -74460,21 +74430,6 @@
     "certificateId": "d58332d4-5366-4865-a752-21c82377fca8"
   },
   {
-    "organisationName": "TerryWhite Chemmart Mornington Village",
-    "tradingName": null,
-    "certificateNumber": "1236",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "MORNINGTON",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-05-31T00:00:00",
-    "expiryDate": "2026-08-31T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "94df44fc-b4cf-ed11-a7c7-00224818ac1c"
-  },
-  {
     "organisationName": "TerryWhite Chemmart Morphettville",
     "tradingName": null,
     "certificateNumber": "1260",
@@ -84523,6 +84478,54 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Advanced Health Pharmacy Bankstown",
+    "tradingName": null,
+    "certificateNumber": "4082",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BANKSTOWN",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-31T00:00:00",
+    "expiryDate": "2026-08-31T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "1fc071e7-abcf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-08-30T21:52:56.467Z"
+  },
+  {
+    "organisationName": "Kingsway Day & Night",
+    "tradingName": null,
+    "certificateNumber": "4663",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WOOLOOWARE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-28T00:00:00",
+    "expiryDate": "2026-08-31T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "b03c81ff-036c-4205-b44f-8cd00e452136",
+    "delistedAt": "2026-08-30T21:52:56.467Z"
+  },
+  {
+    "organisationName": "TerryWhite Chemmart Mornington Village",
+    "tradingName": null,
+    "certificateNumber": "1236",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "MORNINGTON",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-05-31T00:00:00",
+    "expiryDate": "2026-08-31T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "94df44fc-b4cf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-08-30T21:52:56.467Z"
   },
   {
     "organisationName": "Casey's Pharmacy",
