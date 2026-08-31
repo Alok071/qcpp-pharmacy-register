@@ -42676,5 +42676,354 @@
     "email": "office@paddingtoncentralpharmacy.com.au",
     "website": "http://www.paddingtoncentralpharmacy.com.au",
     "checkedAt": "2026-08-19T19:27:33.771Z"
+  },
+  "a26fc102-e0af-43d3-9d0e-1ab8e82be4a0": {
+    "matched": false,
+    "checkedAt": "2026-08-31T23:09:40.587Z"
+  },
+  "491dc03a-0678-4cfd-bed5-614fc7ca1408": {
+    "matched": true,
+    "matchedOrgName": "Andrews Pharmacy Mount Warrigal",
+    "score": 0.91,
+    "phone": "02 4297 7197",
+    "email": "andrewspharmacy@bigpond.com",
+    "checkedAt": "2026-08-31T23:09:42.714Z"
+  },
+  "7dcd4438-5323-432a-90e1-be18a8393c2d": {
+    "matched": true,
+    "matchedOrgName": "Blooms The Chemist Huonville",
+    "score": 1,
+    "phone": "0362641196",
+    "email": "huonville@blooms.net.au",
+    "checkedAt": "2026-08-31T23:09:42.891Z"
+  },
+  "78cb07a2-1747-4c9e-bda6-66899348ffe9": {
+    "matched": true,
+    "matchedOrgName": "Blooms The Chemist Huonville Arcade",
+    "score": 1,
+    "phone": "0362642226",
+    "email": "huonvalleyhealthfood@gmail.com",
+    "website": "https://www.huonarcadepharmacy.com.au/",
+    "checkedAt": "2026-08-31T23:09:42.891Z"
+  },
+  "f4591de6-d214-464c-ac62-5040993a1d25": {
+    "matched": true,
+    "matchedOrgName": "Broadford Pharmacy",
+    "score": 1,
+    "phone": "03 5784 1545",
+    "email": "info@broadfordpharmacy.com.au",
+    "checkedAt": "2026-08-31T23:09:45.464Z"
+  },
+  "ff9aa305-5944-4ce7-90ee-067334993eb2": {
+    "matched": true,
+    "matchedOrgName": "BRAY PARK MEDICAL CENTRE PHARMACY",
+    "score": 1,
+    "phone": "0738813066",
+    "checkedAt": "2026-08-31T23:09:45.559Z"
+  },
+  "ebc37114-3837-4815-a054-833da17655f7": {
+    "matched": true,
+    "matchedOrgName": "Chemist Discount Centre Parkhill",
+    "score": 1,
+    "phone": "0397057999",
+    "email": "parkhill@cdcpharmacy.com.au",
+    "checkedAt": "2026-08-31T23:09:45.869Z"
+  },
+  "cd842ff8-b2cf-ed11-a7c7-6045bd3d5090": {
+    "matched": true,
+    "matchedOrgName": "Chemist Warehouse Bondi Beach Pharmacy",
+    "score": 0.86,
+    "phone": "02 9130 4566",
+    "email": "bondibeach@chemistwarehouse.com.au",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "checkedAt": "2026-08-31T23:09:47.856Z"
+  },
+  "8824a695-6cdb-4b15-aa2a-4ec20607843e": {
+    "matched": true,
+    "matchedOrgName": "Chemist Warehouse Rouse Hill Town Centre",
+    "score": 1,
+    "phone": "0291604114",
+    "email": "rousehill.towncentre@chemistwarehouse.com.au",
+    "website": "http://www.chemistwarehouse.com.au",
+    "checkedAt": "2026-08-31T23:09:50.343Z"
+  },
+  "bb8a11a1-6fd4-49d7-971b-a2ff0e1fd0a4": {
+    "matched": true,
+    "matchedOrgName": "DISCOUNT DRUG STORE ROUSE HILL - FAMILY MEDICAL PRACTICE",
+    "score": 1,
+    "phone": "02 9037 6668",
+    "checkedAt": "2026-08-31T23:09:50.343Z"
+  },
+  "529373b0-afcf-ed11-a7c7-00224818a490": {
+    "matched": true,
+    "matchedOrgName": "Chemist Warehouse Sorell",
+    "score": 1,
+    "phone": "03 6265 2153",
+    "website": "www.chemistwarehouse.com.au",
+    "email": "sorell@chemistwarehouse.com.au",
+    "checkedAt": "2026-08-31T23:09:53.042Z"
+  },
+  "316d9af4-832f-4fd1-9b5c-a7d6c5e4d737": {
+    "matched": true,
+    "matchedOrgName": "Chemist Warehouse Surry Hills",
+    "score": 1,
+    "phone": "02 8399 0375",
+    "email": "surryhills@chemistwarehouse.com.au",
+    "website": "www.chemistwarehouse.com.au",
+    "checkedAt": "2026-08-31T23:09:56.111Z"
+  },
+  "e44c1dec-4097-40b3-80d2-a0db461a842a": {
+    "matched": true,
+    "matchedOrgName": "CHEMIST WAREHOUSE LILYDALE - MAROONDAH HIGHWAY",
+    "score": 1,
+    "phone": "0399668633",
+    "email": "lilydale.maroondahhwy@chemistwarehouse.com.au",
+    "website": "https://www.chemistwarehouse.com.au",
+    "checkedAt": "2026-08-31T23:09:57.432Z"
+  },
+  "0379321e-61cb-4bd8-b4ad-18361f6f3c26": {
+    "matched": true,
+    "matchedOrgName": "Enliven Pharmacy Mosman",
+    "score": 1,
+    "phone": "0299694700",
+    "email": "mosman@enlivenliving.com.au",
+    "website": "https://enlivenliving.com.au/",
+    "checkedAt": "2026-08-31T23:09:59.679Z"
+  },
+  "d122b32b-2aab-432f-abef-c008b738aef0": {
+    "matched": true,
+    "matchedOrgName": "Coastal Compounding Pharmacy",
+    "score": 1,
+    "phone": "0352615798",
+    "checkedAt": "2026-08-31T23:10:00.893Z"
+  },
+  "4e7438de-68da-4a47-a72d-1ff8bad56b1f": {
+    "matched": true,
+    "matchedOrgName": "Express Pharmacy Mackay",
+    "score": 1,
+    "phone": "0749533111",
+    "email": "epharmacymackay@gmail.com",
+    "checkedAt": "2026-08-31T23:10:02.384Z"
+  },
+  "fe31b347-05d4-4cca-a189-e114b706a2f5": {
+    "matched": false,
+    "checkedAt": "2026-08-31T23:10:03.956Z"
+  },
+  "a38be8e1-706e-4bee-90e4-7f74bd7cff44": {
+    "matched": true,
+    "matchedOrgName": "Farmborough Pharmacy",
+    "score": 1,
+    "phone": "02 4271 4488",
+    "checkedAt": "2026-08-31T23:10:04.038Z"
+  },
+  "e400e723-eb6f-4793-ad08-dad435254ffa": {
+    "matched": true,
+    "matchedOrgName": "Glenrowan Pharmacy",
+    "score": 1,
+    "phone": "03 7021 1170",
+    "checkedAt": "2026-08-31T23:10:04.706Z"
+  },
+  "b1f69494-a3c7-4a56-80e0-afcf4dba77d9": {
+    "matched": true,
+    "matchedOrgName": "Great Lakes Pharmacy",
+    "score": 1,
+    "phone": "02 6555 4000",
+    "email": "info@greatlakespharmacy.com.au",
+    "website": "www.greatlakespharmacy.com.au",
+    "checkedAt": "2026-08-31T23:10:06.885Z"
+  },
+  "809dafd5-ac4b-4611-93ea-b290325c7e9d": {
+    "matched": false,
+    "checkedAt": "2026-08-31T23:10:06.944Z"
+  },
+  "33fa5c05-994d-4173-870c-7b61af3cd30d": {
+    "matched": false,
+    "checkedAt": "2026-08-31T23:10:09.091Z"
+  },
+  "7c408f9e-bf1d-4179-aa94-c1dc18cc0f79": {
+    "matched": true,
+    "matchedOrgName": "Home Care Pharmacy WA",
+    "score": 1,
+    "phone": "0894053794",
+    "email": "admin@hcpwa.com.au",
+    "checkedAt": "2026-08-31T23:10:09.758Z"
+  },
+  "5d6e40f5-b1cf-ed11-a7c7-00224818a490": {
+    "matched": false,
+    "checkedAt": "2026-08-31T23:10:11.467Z"
+  },
+  "a67c9a4f-a3b0-4aa2-8f34-ba069a97360d": {
+    "matched": true,
+    "matchedOrgName": "Mount Beauty Pharmacy",
+    "score": 1,
+    "phone": "0357544224",
+    "email": "mountbeautypharmacy@gmail.com",
+    "website": "https://www.mountbeautypharmacy.com.au/",
+    "checkedAt": "2026-08-31T23:10:12.693Z"
+  },
+  "ed4c2fea-b05b-4c92-9c6c-23709c25d77b": {
+    "matched": true,
+    "matchedOrgName": "National Pharmacies East Ringwood",
+    "score": 1,
+    "phone": "0398706555",
+    "email": "erw@fsma.com.au",
+    "website": "https://www.nationalpharmacies.com.au",
+    "checkedAt": "2026-08-31T23:10:14.313Z"
+  },
+  "bfc1b3ce-3fc1-409f-bffc-ba011aeab55e": {
+    "matched": true,
+    "matchedOrgName": "National Pharmacies Toorak",
+    "score": 1,
+    "phone": "03 9827 5394",
+    "email": "trk@fsma.com.au",
+    "website": "www.nationalpharmacies.com.au",
+    "checkedAt": "2026-08-31T23:10:15.473Z"
+  },
+  "84de3ac5-3968-4760-a3f7-6146a8fc20f9": {
+    "matched": true,
+    "matchedOrgName": "Pharmacy 4 Less Jesmond Central",
+    "score": 0.9,
+    "phone": "02 4955 8434",
+    "email": "jesmondcentral@pharmalink.com.au",
+    "website": "https://www.priceline.com.au/",
+    "checkedAt": "2026-08-31T23:10:16.806Z"
+  },
+  "c331d822-e418-49b2-9620-56ccc9aa9b31": {
+    "matched": true,
+    "matchedOrgName": "Kingborough Pharmacy",
+    "score": 1,
+    "phone": "03 6229 7773",
+    "checkedAt": "2026-08-31T23:10:17.277Z"
+  },
+  "b9f8c436-958f-4e13-8e72-abeea36f7cef": {
+    "matched": true,
+    "matchedOrgName": "Plunketts TerryWhite Chemmart Pharmacy Wauchope",
+    "score": 0.89,
+    "phone": "02 6585 1188",
+    "email": "admin@plunkettswauchope.com.au",
+    "website": "www.terrywhitechemmart.com.au",
+    "checkedAt": "2026-08-31T23:10:17.654Z"
+  },
+  "b49df9ae-3713-4f3c-8ef0-89cd8bc31058": {
+    "matched": true,
+    "matchedOrgName": "Priceline Pharmacy Arkaba",
+    "score": 1,
+    "phone": "08 8379 5115",
+    "email": "arkabapharm@gmail.com",
+    "website": "https://www.priceline.com.au/",
+    "checkedAt": "2026-08-31T23:10:19.408Z"
+  },
+  "dc24eb54-481f-40c1-b712-6937901897a1": {
+    "matched": true,
+    "matchedOrgName": "Priceline Pharmacy Eli Waters",
+    "score": 1,
+    "phone": "07 4124 8824",
+    "checkedAt": "2026-08-31T23:10:20.023Z"
+  },
+  "cef4b629-6bff-45fc-a01e-b34cb69e5ec5": {
+    "matched": true,
+    "matchedOrgName": "Priceline Pharmacy Heathmont",
+    "score": 1,
+    "phone": "03 9729 4545",
+    "email": "heathmont733@priceline.com.au",
+    "checkedAt": "2026-08-31T23:10:22.436Z"
+  },
+  "d6847955-b2cf-ed11-a7c7-00224818ac1c": {
+    "matched": true,
+    "matchedOrgName": "Priceline Pharmacy Elizabeth",
+    "score": 1,
+    "phone": "08 8255 7878",
+    "email": "pricelinepharmelizabeth@gmail.com",
+    "website": "http://www.pharmacistadvice.com.au/",
+    "checkedAt": "2026-08-31T23:10:23.265Z"
+  },
+  "33c14419-afcf-ed11-a7c7-6045bd3d5090": {
+    "matched": true,
+    "matchedOrgName": "Preston South Pharmacy",
+    "score": 1,
+    "phone": "03 9484 3153",
+    "checkedAt": "2026-08-31T23:10:25.087Z"
+  },
+  "9a67825a-2661-41a9-a0f7-ea21cb5229a6": {
+    "matched": true,
+    "matchedOrgName": "PRICELINE PHARMACY PROVIDENCE",
+    "score": 1,
+    "phone": "07 3485 1789",
+    "checkedAt": "2026-08-31T23:10:25.106Z"
+  },
+  "c6146bf0-4b5c-44f5-aba2-d390acf11fef": {
+    "matched": true,
+    "matchedOrgName": "Ramsay Pharmacy North Bundaberg",
+    "score": 1,
+    "phone": "0741510866",
+    "email": "northbundaberg@maloufpharmacies.com.au",
+    "website": "https://maloufpharmacies.com.au",
+    "checkedAt": "2026-08-31T23:10:25.595Z"
+  },
+  "20f2802b-84db-4b0b-9382-72ea0d52bce8": {
+    "matched": false,
+    "checkedAt": "2026-08-31T23:10:27.386Z"
+  },
+  "f233423d-b6b4-421c-ba66-1aa73327ef7f": {
+    "matched": false,
+    "checkedAt": "2026-08-31T23:10:27.447Z"
+  },
+  "0239c57d-b0cf-ed11-a7c7-00224818ac1c": {
+    "matched": true,
+    "matchedOrgName": "Sable Pharmacy",
+    "score": 1,
+    "phone": "03 9350 2310",
+    "email": "sable.pharmacy@nunet.com.au",
+    "website": "https://www.sablepharmacy.com/pharmacy-and-chemist-in-coburg",
+    "checkedAt": "2026-08-31T23:10:28.205Z"
+  },
+  "d22bd413-adcf-ed11-a7c7-00224818a1d1": {
+    "matched": true,
+    "matchedOrgName": "TerryWhite Chemmart Bendigo",
+    "score": 1,
+    "phone": "0354425055",
+    "email": "enquiries@healthsmartbendigo.com",
+    "checkedAt": "2026-08-31T23:10:29.488Z"
+  },
+  "9e3dd295-2a23-4166-9bbb-9c67d7581a14": {
+    "matched": false,
+    "checkedAt": "2026-08-31T23:10:30.913Z"
+  },
+  "50779237-63cc-4de7-9483-0d716abbd973": {
+    "matched": true,
+    "matchedOrgName": "South Portland Pharmacy",
+    "score": 1,
+    "phone": "03 5523 5555",
+    "email": "sportlandpharmacy@yahoo.com.au",
+    "checkedAt": "2026-08-31T23:10:31.345Z"
+  },
+  "5a2d256c-3517-43ec-9cb5-82b3949395d9": {
+    "matched": true,
+    "matchedOrgName": "TerryWhite Chemmart Kippa-Ring",
+    "score": 0.95,
+    "phone": "0732833266",
+    "email": "kippa.ring@terrywhitechemmart.com.au",
+    "checkedAt": "2026-08-31T23:10:33.561Z"
+  },
+  "f9a42030-3f14-49b2-9d4c-9e83472f0957": {
+    "matched": true,
+    "matchedOrgName": "Vasse Pharmacy",
+    "score": 1,
+    "phone": "0897878800",
+    "checkedAt": "2026-08-31T23:10:33.609Z"
+  },
+  "1e3478dc-c297-49aa-8728-a05a9c188bf2": {
+    "matched": true,
+    "matchedOrgName": "Your Discount Pharmacy Brunswick",
+    "score": 1,
+    "phone": "0391348647",
+    "checkedAt": "2026-08-31T23:10:38.668Z"
+  },
+  "53572be5-989f-444b-ab2c-65400fc71ae0": {
+    "matched": true,
+    "matchedOrgName": "TERRYWHITE CHEMMART PORTSIDE WHARF",
+    "score": 1,
+    "phone": "0731805739",
+    "checkedAt": "2026-08-31T23:10:39.505Z"
   }
 }
