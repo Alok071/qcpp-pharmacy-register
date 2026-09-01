@@ -58215,21 +58215,6 @@
     "certificateId": "9584f3c5-accf-ed11-a7c7-00224818a1d1"
   },
   {
-    "organisationName": "Priceline Pharmacy Dubbo",
-    "tradingName": null,
-    "certificateNumber": "2886",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "DUBBO",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-02T00:00:00",
-    "expiryDate": "2026-09-02T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "aceba1f3-adcf-ed11-a7c7-00224818ac1c"
-  },
-  {
     "organisationName": "Priceline Pharmacy Earlville Upper",
     "tradingName": null,
     "certificateNumber": "2555",
@@ -85453,6 +85438,22 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Dubbo",
+    "tradingName": null,
+    "certificateNumber": "2886",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "DUBBO",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-02T00:00:00",
+    "expiryDate": "2026-09-02T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "aceba1f3-adcf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-09-01T21:39:00.193Z"
   },
   {
     "organisationName": "Blooms The Chemist Sturt Mall",
