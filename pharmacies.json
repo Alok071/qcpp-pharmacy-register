@@ -12705,21 +12705,6 @@
     "certificateId": "2489671c-b1cf-ed11-a7c7-00224818a490"
   },
   {
-    "organisationName": "Chemist Discount Centre Melton",
-    "tradingName": null,
-    "certificateNumber": "1848",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "MELTON",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-04T00:00:00",
-    "expiryDate": "2026-09-04T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "01edab5f-afcf-ed11-a7c7-00224818a1d1"
-  },
-  {
     "organisationName": "Chemist Discount Centre Minto",
     "tradingName": null,
     "certificateNumber": "2762",
@@ -62490,21 +62475,6 @@
     "certificateId": "180705d6-3a70-4b44-a735-c06ff76c096a"
   },
   {
-    "organisationName": "Priceline Pharmacy Woden",
-    "tradingName": null,
-    "certificateNumber": "1714",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "PHILLIP",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-04T00:00:00",
-    "expiryDate": "2026-09-04T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "0664c5ce-b1cf-ed11-a7c7-00224818ac1c"
-  },
-  {
     "organisationName": "Priceline Pharmacy Wollongong",
     "tradingName": null,
     "certificateNumber": "6233",
@@ -85438,6 +85408,38 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Chemist Discount Centre Melton",
+    "tradingName": null,
+    "certificateNumber": "1848",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "MELTON",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-04T00:00:00",
+    "expiryDate": "2026-09-04T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "01edab5f-afcf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-09-03T21:36:57.961Z"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Woden",
+    "tradingName": null,
+    "certificateNumber": "1714",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "PHILLIP",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-04T00:00:00",
+    "expiryDate": "2026-09-04T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "0664c5ce-b1cf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-09-03T21:36:57.962Z"
   },
   {
     "organisationName": "Priceline Pharmacy Dubbo",
