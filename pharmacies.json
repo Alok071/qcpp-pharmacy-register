@@ -70020,21 +70020,6 @@
     "certificateId": "12ab621b-a1cd-4296-8dd2-3b3e2fe51505"
   },
   {
-    "organisationName": "Surfers Paradise 24hr Chempro Chemist",
-    "tradingName": null,
-    "certificateNumber": "3939",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "SURFERS PARADISE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-05T00:00:00",
-    "expiryDate": "2026-09-05T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "27b46a80-aecf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Surfers Renaissance Amcal Chempro Chemist",
     "tradingName": null,
     "certificateNumber": "3443",
@@ -85408,6 +85393,22 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Surfers Paradise 24hr Chempro Chemist",
+    "tradingName": null,
+    "certificateNumber": "3939",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "SURFERS PARADISE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-05T00:00:00",
+    "expiryDate": "2026-09-05T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "27b46a80-aecf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-09-04T21:18:44.828Z"
   },
   {
     "organisationName": "Chemist Discount Centre Melton",
