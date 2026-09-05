@@ -39780,6 +39780,21 @@
     "certificateId": "8b488fbc-afcf-ed11-a7c7-00224818a490"
   },
   {
+    "organisationName": "Kaleen Discount Drug Stores",
+    "tradingName": null,
+    "certificateNumber": "3656",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "KALEEN",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2026-09-05T00:00:00",
+    "expiryDate": "2028-12-05T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "ecc86ba5-accf-ed11-a7c7-00224818a490"
+  },
+  {
     "organisationName": "Kaleen Plaza Pharmacy",
     "tradingName": null,
     "certificateNumber": "3476",
@@ -56895,21 +56910,6 @@
     "certificateId": "e54554e8-b3cf-ed11-a7c7-00224818ac1c"
   },
   {
-    "organisationName": "Priceline Pharmacy Aspley",
-    "tradingName": null,
-    "certificateNumber": "1360",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "ASPLEY",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-06T00:00:00",
-    "expiryDate": "2026-09-06T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "a160fc65-aecf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Priceline Pharmacy Auburn",
     "tradingName": null,
     "certificateNumber": "4001",
@@ -64663,21 +64663,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "47a8f66a-f3ed-479d-a644-efb6aacb084d"
-  },
-  {
-    "organisationName": "Risdon Vale Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "745",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "RISDON VALE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-06T00:00:00",
-    "expiryDate": "2026-09-06T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "bced9497-afcf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "River Heads Pharmacy",
@@ -85395,6 +85380,38 @@
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
   },
   {
+    "organisationName": "Priceline Pharmacy Aspley",
+    "tradingName": null,
+    "certificateNumber": "1360",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "ASPLEY",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-06T00:00:00",
+    "expiryDate": "2026-09-06T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "a160fc65-aecf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-09-05T20:59:32.129Z"
+  },
+  {
+    "organisationName": "Risdon Vale Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "745",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "RISDON VALE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-06T00:00:00",
+    "expiryDate": "2026-09-06T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "bced9497-afcf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-09-05T20:59:32.129Z"
+  },
+  {
     "organisationName": "Surfers Paradise 24hr Chempro Chemist",
     "tradingName": null,
     "certificateNumber": "3939",
@@ -85520,22 +85537,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "64872f55-b5cf-ed11-a7c7-00224818ac1c",
-    "delistedAt": "2026-08-31T23:09:36.809Z"
-  },
-  {
-    "organisationName": "Kaleen Discount Drug Stores",
-    "tradingName": null,
-    "certificateNumber": "3656",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "KALEEN",
-    "country": "Australia",
-    "status": "Expired",
-    "currentCertificationDate": "2024-09-05T00:00:00",
-    "expiryDate": "2026-12-05T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "ecc86ba5-accf-ed11-a7c7-00224818a490",
     "delistedAt": "2026-08-31T23:09:36.809Z"
   },
   {
