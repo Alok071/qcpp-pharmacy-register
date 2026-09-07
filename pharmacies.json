@@ -9002,21 +9002,6 @@
   {
     "organisationName": "Broadwater Pharmacy",
     "tradingName": null,
-    "certificateNumber": "2888",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BUSSELTON",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-11-06T00:00:00",
-    "expiryDate": "2027-02-06T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "f61764ac-b5cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
-    "organisationName": "Broadwater Pharmacy",
-    "tradingName": null,
     "certificateNumber": "769",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "BIGGERA WATERS",
@@ -9028,6 +9013,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "d023701d-b5cf-ed11-a7c7-00224818a490"
+  },
+  {
+    "organisationName": "Broadwater Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "2888",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BUSSELTON",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2024-11-06T00:00:00",
+    "expiryDate": "2027-02-06T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "f61764ac-b5cf-ed11-a7c7-6045bd3d5090"
   },
   {
     "organisationName": "Bronberg Plaza Chempro Chemist",
@@ -32578,21 +32578,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "3c768590-4a5f-4ff5-b767-e071fa7c1726"
-  },
-  {
-    "organisationName": "Galleon Way Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "3133",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "CURRUMBIN WATERS",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-08T00:00:00",
-    "expiryDate": "2026-09-08T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "5112b348-b4cf-ed11-a7c7-6045bd3d5090"
   },
   {
     "organisationName": "Galloways Pharmacy",
@@ -62267,21 +62252,6 @@
   {
     "organisationName": "Priceline Pharmacy Warwick",
     "tradingName": null,
-    "certificateNumber": "4348",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WARWICK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2025-10-15T00:00:00",
-    "expiryDate": "2028-01-15T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "d6df2fd5-b0cf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Priceline Pharmacy Warwick",
-    "tradingName": null,
     "certificateNumber": "1346",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "WARWICK",
@@ -62293,6 +62263,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "5a504b75-accf-ed11-a7c7-00224818a490"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Warwick",
+    "tradingName": null,
+    "certificateNumber": "4348",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WARWICK",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2025-10-15T00:00:00",
+    "expiryDate": "2028-01-15T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "d6df2fd5-b0cf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Priceline Pharmacy Watergardens",
@@ -82545,21 +82530,6 @@
     "certificateId": "f427e137-b3cf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Wetherill Park Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "4892",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WETHERILL PARK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-08T00:00:00",
-    "expiryDate": "2026-09-08T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "15ddb19c-47eb-46fd-b578-9f687118db9c"
-  },
-  {
     "organisationName": "Wexford Medical Centre Pharmacy",
     "tradingName": null,
     "certificateNumber": "1707",
@@ -85363,6 +85333,38 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Galleon Way Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "3133",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "CURRUMBIN WATERS",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-08T00:00:00",
+    "expiryDate": "2026-09-08T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "5112b348-b4cf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-09-07T21:57:42.110Z"
+  },
+  {
+    "organisationName": "Wetherill Park Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "4892",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WETHERILL PARK",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-08T00:00:00",
+    "expiryDate": "2026-09-08T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "15ddb19c-47eb-46fd-b578-9f687118db9c",
+    "delistedAt": "2026-09-07T21:57:42.110Z"
   },
   {
     "organisationName": "TerryWhite Chemmart Warrandyte",
