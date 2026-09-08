@@ -9002,21 +9002,6 @@
   {
     "organisationName": "Broadwater Pharmacy",
     "tradingName": null,
-    "certificateNumber": "769",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BIGGERA WATERS",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2026-06-18T00:00:00",
-    "expiryDate": "2028-09-18T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "d023701d-b5cf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Broadwater Pharmacy",
-    "tradingName": null,
     "certificateNumber": "2888",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "BUSSELTON",
@@ -9028,6 +9013,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "f61764ac-b5cf-ed11-a7c7-6045bd3d5090"
+  },
+  {
+    "organisationName": "Broadwater Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "769",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BIGGERA WATERS",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2026-06-18T00:00:00",
+    "expiryDate": "2028-09-18T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "d023701d-b5cf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Bronberg Plaza Chempro Chemist",
@@ -62252,21 +62252,6 @@
   {
     "organisationName": "Priceline Pharmacy Warwick",
     "tradingName": null,
-    "certificateNumber": "1346",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WARWICK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2025-07-23T00:00:00",
-    "expiryDate": "2027-10-23T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "5a504b75-accf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Priceline Pharmacy Warwick",
-    "tradingName": null,
     "certificateNumber": "4348",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "WARWICK",
@@ -62278,6 +62263,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "d6df2fd5-b0cf-ed11-a7c7-00224818a490"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Warwick",
+    "tradingName": null,
+    "certificateNumber": "1346",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WARWICK",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2025-07-23T00:00:00",
+    "expiryDate": "2027-10-23T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "5a504b75-accf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Priceline Pharmacy Watergardens",
@@ -70288,21 +70288,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "9a0fb42f-b5cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
-    "organisationName": "Tambassis Pharmacy Brunswick",
-    "tradingName": null,
-    "certificateNumber": "2314",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BRUNSWICK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-09T00:00:00",
-    "expiryDate": "2026-09-09T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "a5bcb511-accf-ed11-a7c7-00224818ac1c"
   },
   {
     "organisationName": "Tamborine Village Pharmacy",
@@ -85333,6 +85318,22 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Tambassis Pharmacy Brunswick",
+    "tradingName": null,
+    "certificateNumber": "2314",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BRUNSWICK",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-09T00:00:00",
+    "expiryDate": "2026-09-09T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "a5bcb511-accf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-09-08T21:39:25.463Z"
   },
   {
     "organisationName": "Galleon Way Pharmacy",
