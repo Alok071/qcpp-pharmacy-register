@@ -9002,21 +9002,6 @@
   {
     "organisationName": "Broadwater Pharmacy",
     "tradingName": null,
-    "certificateNumber": "2888",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BUSSELTON",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-11-06T00:00:00",
-    "expiryDate": "2027-02-06T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "f61764ac-b5cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
-    "organisationName": "Broadwater Pharmacy",
-    "tradingName": null,
     "certificateNumber": "769",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "BIGGERA WATERS",
@@ -9028,6 +9013,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "d023701d-b5cf-ed11-a7c7-00224818a490"
+  },
+  {
+    "organisationName": "Broadwater Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "2888",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BUSSELTON",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2024-11-06T00:00:00",
+    "expiryDate": "2027-02-06T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "f61764ac-b5cf-ed11-a7c7-6045bd3d5090"
   },
   {
     "organisationName": "Bronberg Plaza Chempro Chemist",
@@ -54345,21 +54345,6 @@
     "certificateId": "e0a37d03-aecf-ed11-a7c7-00224818a1d1"
   },
   {
-    "organisationName": "Pharmacy 777 Glengarry",
-    "tradingName": null,
-    "certificateNumber": "5304",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "DUNCRAIG",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-10T00:00:00",
-    "expiryDate": "2026-09-10T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "972fb7c8-b2cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Pharmacy 777 Golden Grove",
     "tradingName": null,
     "certificateNumber": "6335",
@@ -62252,21 +62237,6 @@
   {
     "organisationName": "Priceline Pharmacy Warwick",
     "tradingName": null,
-    "certificateNumber": "4348",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WARWICK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2025-10-15T00:00:00",
-    "expiryDate": "2028-01-15T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "d6df2fd5-b0cf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Priceline Pharmacy Warwick",
-    "tradingName": null,
     "certificateNumber": "1346",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "WARWICK",
@@ -62278,6 +62248,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "5a504b75-accf-ed11-a7c7-00224818a490"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Warwick",
+    "tradingName": null,
+    "certificateNumber": "4348",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WARWICK",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2025-10-15T00:00:00",
+    "expiryDate": "2028-01-15T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "d6df2fd5-b0cf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Priceline Pharmacy Watergardens",
@@ -64123,21 +64108,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "440862b9-b5cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
-    "organisationName": "Rangeway Amcal Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "4364",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "RANGEWAY",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-10T00:00:00",
-    "expiryDate": "2026-09-10T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "e1e32414-b3cf-ed11-a7c7-00224818a1d1"
   },
   {
     "organisationName": "Rapha Community Pharmacy Eidsvold",
@@ -80685,21 +80655,6 @@
     "certificateId": "0524701d-b5cf-ed11-a7c7-00224818a490"
   },
   {
-    "organisationName": "Victoria Point Medical Centre Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "5326",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "VICTORIA POINT",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-10T00:00:00",
-    "expiryDate": "2026-09-10T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "425f7d43-b2cf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "Victoria Point Pharmacy",
     "tradingName": null,
     "certificateNumber": "3812",
@@ -85318,6 +85273,54 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Pharmacy 777 Glengarry",
+    "tradingName": null,
+    "certificateNumber": "5304",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "DUNCRAIG",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-10T00:00:00",
+    "expiryDate": "2026-09-10T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "972fb7c8-b2cf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-09-09T21:34:15.421Z"
+  },
+  {
+    "organisationName": "Rangeway Amcal Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "4364",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "RANGEWAY",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-10T00:00:00",
+    "expiryDate": "2026-09-10T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "e1e32414-b3cf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-09-09T21:34:15.421Z"
+  },
+  {
+    "organisationName": "Victoria Point Medical Centre Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "5326",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "VICTORIA POINT",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-10T00:00:00",
+    "expiryDate": "2026-09-10T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "425f7d43-b2cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-09-09T21:34:15.421Z"
   },
   {
     "organisationName": "Tambassis Pharmacy Brunswick",
