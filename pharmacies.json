@@ -4320,21 +4320,6 @@
     "certificateId": "07a018d2-e208-465c-a6ba-7039d7ebda1a"
   },
   {
-    "organisationName": "Beaudesert Central Shays Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "3893",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BEAUDESERT",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-11T00:00:00",
-    "expiryDate": "2026-09-11T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "9327e137-b3cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Beaufort Chemist",
     "tradingName": null,
     "certificateNumber": "346",
@@ -6405,21 +6390,6 @@
     "certificateId": "d12fc877-b0cf-ed11-a7c7-00224818ac1c"
   },
   {
-    "organisationName": "Blooms the Chemist Edgecliff",
-    "tradingName": null,
-    "certificateNumber": "856",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "EDGECLIFF",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-11T00:00:00",
-    "expiryDate": "2026-09-11T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "b9cb5bb7-aecf-ed11-a7c7-00224818a1d1"
-  },
-  {
     "organisationName": "Blooms the Chemist Erina",
     "tradingName": null,
     "certificateNumber": "221",
@@ -7513,6 +7483,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "ef8fd814-4b87-4e7e-845c-773a84386ecf"
+  },
+  {
+    "organisationName": "Blooms The Chemist Sturt Mall",
+    "tradingName": null,
+    "certificateNumber": "3",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WAGGA WAGGA",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2026-09-10T00:00:00",
+    "expiryDate": "2028-12-10T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "aaee7ab6-b2cf-ed11-a7c7-6045bd3d5090"
   },
   {
     "organisationName": "Blooms The Chemist Surry Hills Village",
@@ -8998,21 +8983,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "cc2b65b4-8c93-404e-92d8-81ec1d04360b"
-  },
-  {
-    "organisationName": "Broadwater Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "769",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BIGGERA WATERS",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2026-06-18T00:00:00",
-    "expiryDate": "2028-09-18T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "d023701d-b5cf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Broadwater Pharmacy",
@@ -55095,21 +55065,6 @@
     "certificateId": "e0ee7ab6-b2cf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Pharmacy for Life Nambour Heights",
-    "tradingName": null,
-    "certificateNumber": "5302",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "NAMBOUR",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-11T00:00:00",
-    "expiryDate": "2026-09-11T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "33cee6e1-fd05-42fe-bb58-0742fcfb448a"
-  },
-  {
     "organisationName": "Pharmacy For Life Wurtulla",
     "tradingName": null,
     "certificateNumber": "567",
@@ -80640,21 +80595,6 @@
     "certificateId": "3c322185-2199-40e1-a504-ff45b7ba6a3e"
   },
   {
-    "organisationName": "Victoria Market Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "4523",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "MELBOURNE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-11T00:00:00",
-    "expiryDate": "2026-09-11T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "0524701d-b5cf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "Victoria Point Pharmacy",
     "tradingName": null,
     "certificateNumber": "3812",
@@ -85275,6 +85215,86 @@
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
   },
   {
+    "organisationName": "Beaudesert Central Shays Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "3893",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BEAUDESERT",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-11T00:00:00",
+    "expiryDate": "2026-09-11T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "9327e137-b3cf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-09-10T21:29:20.484Z"
+  },
+  {
+    "organisationName": "Blooms the Chemist Edgecliff",
+    "tradingName": null,
+    "certificateNumber": "856",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "EDGECLIFF",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-11T00:00:00",
+    "expiryDate": "2026-09-11T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "b9cb5bb7-aecf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-09-10T21:29:20.484Z"
+  },
+  {
+    "organisationName": "Broadwater Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "769",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BIGGERA WATERS",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2026-06-18T00:00:00",
+    "expiryDate": "2028-09-18T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "d023701d-b5cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-09-10T21:29:20.484Z"
+  },
+  {
+    "organisationName": "Pharmacy for Life Nambour Heights",
+    "tradingName": null,
+    "certificateNumber": "5302",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "NAMBOUR",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-11T00:00:00",
+    "expiryDate": "2026-09-11T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "33cee6e1-fd05-42fe-bb58-0742fcfb448a",
+    "delistedAt": "2026-09-10T21:29:20.484Z"
+  },
+  {
+    "organisationName": "Victoria Market Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "4523",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "MELBOURNE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-11T00:00:00",
+    "expiryDate": "2026-09-11T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "0524701d-b5cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-09-10T21:29:20.484Z"
+  },
+  {
     "organisationName": "Pharmacy 777 Glengarry",
     "tradingName": null,
     "certificateNumber": "5304",
@@ -85481,22 +85501,6 @@
     ],
     "certificateId": "aceba1f3-adcf-ed11-a7c7-00224818ac1c",
     "delistedAt": "2026-09-01T21:39:00.193Z"
-  },
-  {
-    "organisationName": "Blooms The Chemist Sturt Mall",
-    "tradingName": null,
-    "certificateNumber": "3",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WAGGA WAGGA",
-    "country": "Australia",
-    "status": "Expired",
-    "currentCertificationDate": "2024-09-10T00:00:00",
-    "expiryDate": "2026-12-10T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "aaee7ab6-b2cf-ed11-a7c7-6045bd3d5090",
-    "delistedAt": "2026-08-31T23:09:36.809Z"
   },
   {
     "organisationName": "Botanical Chemist",
