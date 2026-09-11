@@ -6240,21 +6240,6 @@
     "certificateId": "165e55cd-afcf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Blooms The Chemist Cronulla South",
-    "tradingName": null,
-    "certificateNumber": "4736",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "CRONULLA",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-12T00:00:00",
-    "expiryDate": "2026-09-12T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "6777146a-b3cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Blooms The Chemist Crows Nest",
     "tradingName": null,
     "certificateNumber": "226",
@@ -8983,6 +8968,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "cc2b65b4-8c93-404e-92d8-81ec1d04360b"
+  },
+  {
+    "organisationName": "Broadwater Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "769",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BIGGERA WATERS",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2026-06-18T00:00:00",
+    "expiryDate": "2028-09-18T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "d023701d-b5cf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Broadwater Pharmacy",
@@ -85215,6 +85215,22 @@
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
   },
   {
+    "organisationName": "Blooms The Chemist Cronulla South",
+    "tradingName": null,
+    "certificateNumber": "4736",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "CRONULLA",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-12T00:00:00",
+    "expiryDate": "2026-09-12T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "6777146a-b3cf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-09-11T21:36:20.271Z"
+  },
+  {
     "organisationName": "Beaudesert Central Shays Pharmacy",
     "tradingName": null,
     "certificateNumber": "3893",
@@ -85244,22 +85260,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "b9cb5bb7-aecf-ed11-a7c7-00224818a1d1",
-    "delistedAt": "2026-09-10T21:29:20.484Z"
-  },
-  {
-    "organisationName": "Broadwater Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "769",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BIGGERA WATERS",
-    "country": "Australia",
-    "status": "Expired",
-    "currentCertificationDate": "2026-06-18T00:00:00",
-    "expiryDate": "2028-09-18T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "d023701d-b5cf-ed11-a7c7-00224818a490",
     "delistedAt": "2026-09-10T21:29:20.484Z"
   },
   {
