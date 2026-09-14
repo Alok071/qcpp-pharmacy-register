@@ -29640,21 +29640,6 @@
     "certificateId": "d54a42fd-abcf-ed11-a7c7-00224818a490"
   },
   {
-    "organisationName": "Earlwood Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "978",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "EARLWOOD",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-15T00:00:00",
-    "expiryDate": "2026-09-15T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "cf367493-accf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "East Ballina Pharmacy",
     "tradingName": null,
     "certificateNumber": "453",
@@ -62055,21 +62040,6 @@
     "certificateId": "4576fe0c-b2cf-ed11-a7c7-00224818ac1c"
   },
   {
-    "organisationName": "Priceline Pharmacy Wallsend",
-    "tradingName": null,
-    "certificateNumber": "3394",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WALLSEND",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-15T00:00:00",
-    "expiryDate": "2026-09-15T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "16d17f44-b5cf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "Priceline Pharmacy Wanneroo Central",
     "tradingName": null,
     "certificateNumber": "1984",
@@ -64080,21 +64050,6 @@
     "certificateId": "1246ee11-b0cf-ed11-a7c7-00224818a490"
   },
   {
-    "organisationName": "Raymond Street Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "608",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "SALE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-15T00:00:00",
-    "expiryDate": "2026-09-15T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "097c4b78-b4cf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "Raymond's Pharmacy Kempsey",
     "tradingName": null,
     "certificateNumber": "2782",
@@ -65518,21 +65473,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "9ba772f6-f63a-401a-b7ee-bf1b253878b1"
-  },
-  {
-    "organisationName": "SA Mallee Pharmacies Pinnaroo",
-    "tradingName": null,
-    "certificateNumber": "4697",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "PINNAROO",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-15T00:00:00",
-    "expiryDate": "2026-09-15T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "f18981f6-b4cf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Sable Pharmacy",
@@ -83700,21 +83640,6 @@
     "certificateId": "77b8e703-b0cf-ed11-a7c7-00224818ac1c"
   },
   {
-    "organisationName": "Woodford Chempro Chemist",
-    "tradingName": null,
-    "certificateNumber": "6386",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WOODFORD",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-15T00:00:00",
-    "expiryDate": "2026-09-15T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "bc63bdc1-b2cf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "Woodgate Beach Pharmacy",
     "tradingName": null,
     "certificateNumber": "5330",
@@ -85153,6 +85078,86 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Earlwood Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "978",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "EARLWOOD",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-15T00:00:00",
+    "expiryDate": "2026-09-15T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "cf367493-accf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-09-14T22:19:40.518Z"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Wallsend",
+    "tradingName": null,
+    "certificateNumber": "3394",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WALLSEND",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-15T00:00:00",
+    "expiryDate": "2026-09-15T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "16d17f44-b5cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-09-14T22:19:40.518Z"
+  },
+  {
+    "organisationName": "Raymond Street Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "608",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "SALE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-15T00:00:00",
+    "expiryDate": "2026-09-15T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "097c4b78-b4cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-09-14T22:19:40.518Z"
+  },
+  {
+    "organisationName": "SA Mallee Pharmacies Pinnaroo",
+    "tradingName": null,
+    "certificateNumber": "4697",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "PINNAROO",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-15T00:00:00",
+    "expiryDate": "2026-09-15T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "f18981f6-b4cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-09-14T22:19:40.518Z"
+  },
+  {
+    "organisationName": "Woodford Chempro Chemist",
+    "tradingName": null,
+    "certificateNumber": "6386",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WOODFORD",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-15T00:00:00",
+    "expiryDate": "2026-09-15T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "bc63bdc1-b2cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-09-14T22:19:40.518Z"
   },
   {
     "organisationName": "Camira Pharmacy",
