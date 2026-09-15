@@ -4140,21 +4140,6 @@
     "certificateId": "5b688608-bbd2-4be7-8665-a58ca0183596"
   },
   {
-    "organisationName": "Bayside Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "1375",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "LOWER SANDY BAY",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-16T00:00:00",
-    "expiryDate": "2026-09-16T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "5c3817c9-aecf-ed11-a7c7-00224818ac1c"
-  },
-  {
     "organisationName": "Bayside Pharmacy VIC",
     "tradingName": null,
     "certificateNumber": "1207",
@@ -29400,21 +29385,6 @@
     "certificateId": "db7f29ce-aecf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Dulwich Hill Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "3417",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "DULWICH HILL",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-16T00:00:00",
-    "expiryDate": "2026-09-16T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "d9e07c19-b5ec-4640-a5ac-a2f78b4b7f27"
-  },
-  {
     "organisationName": "Dulwich Pharmacy",
     "tradingName": null,
     "certificateNumber": "3364",
@@ -31753,21 +31723,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "7c5f7d43-b2cf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Fords Discount Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "2412",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "NEWTOWN",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-16T00:00:00",
-    "expiryDate": "2026-09-16T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "3339c57d-b0cf-ed11-a7c7-00224818ac1c"
   },
   {
     "organisationName": "Forest Hill Pharmacy",
@@ -50353,21 +50308,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "9bdc689c-aecf-ed11-a7c7-00224818ac1c"
-  },
-  {
-    "organisationName": "Northampton Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "2115",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "NORTHAMPTON",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-16T00:00:00",
-    "expiryDate": "2026-09-16T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "fb95d504-83bc-42c4-b284-145ac977e7fa"
   },
   {
     "organisationName": "Northbridge Pharmacy",
@@ -85078,6 +85018,70 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Bayside Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "1375",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "LOWER SANDY BAY",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-16T00:00:00",
+    "expiryDate": "2026-09-16T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "5c3817c9-aecf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-09-15T21:59:02.924Z"
+  },
+  {
+    "organisationName": "Dulwich Hill Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "3417",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "DULWICH HILL",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-16T00:00:00",
+    "expiryDate": "2026-09-16T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "d9e07c19-b5ec-4640-a5ac-a2f78b4b7f27",
+    "delistedAt": "2026-09-15T21:59:02.924Z"
+  },
+  {
+    "organisationName": "Fords Discount Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "2412",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "NEWTOWN",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-16T00:00:00",
+    "expiryDate": "2026-09-16T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "3339c57d-b0cf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-09-15T21:59:02.924Z"
+  },
+  {
+    "organisationName": "Northampton Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "2115",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "NORTHAMPTON",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-16T00:00:00",
+    "expiryDate": "2026-09-16T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "fb95d504-83bc-42c4-b284-145ac977e7fa",
+    "delistedAt": "2026-09-15T21:59:02.924Z"
   },
   {
     "organisationName": "Earlwood Pharmacy",
