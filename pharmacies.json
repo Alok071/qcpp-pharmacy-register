@@ -26655,21 +26655,6 @@
     "certificateId": "71e9d780-b0cf-ed11-a7c7-00224818a490"
   },
   {
-    "organisationName": "Devonport Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "732",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "DEVONPORT",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-17T00:00:00",
-    "expiryDate": "2026-09-17T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "72fc4469-afcf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Devonshire Pharmacy",
     "tradingName": null,
     "certificateNumber": "3738",
@@ -57930,21 +57915,6 @@
     "certificateId": "f15d944a-0e61-4146-b125-0f5a9708473d"
   },
   {
-    "organisationName": "Priceline Pharmacy Cronulla",
-    "tradingName": null,
-    "certificateNumber": "5019",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "CRONULLA",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-17T00:00:00",
-    "expiryDate": "2026-09-17T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "bb97c366-accf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Priceline Pharmacy Dandenong Plaza Upper",
     "tradingName": null,
     "certificateNumber": "2473",
@@ -76845,21 +76815,6 @@
     "certificateId": "61dbfb63-f087-48b8-8f62-7cc3371f1f18"
   },
   {
-    "organisationName": "TerryWhite Chemmart Winmalee",
-    "tradingName": null,
-    "certificateNumber": "544",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WINMALEE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-17T00:00:00",
-    "expiryDate": "2026-09-17T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "e7d5b1ce-b2cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "TerryWhite Chemmart Winston Glades",
     "tradingName": null,
     "certificateNumber": "20",
@@ -81135,21 +81090,6 @@
     "certificateId": "88ed8384-b5cf-ed11-a7c7-00224818a490"
   },
   {
-    "organisationName": "Warialda Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "4275",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WARIALDA",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-17T00:00:00",
-    "expiryDate": "2026-09-17T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "ae21a864-b1cf-ed11-a7c7-00224818a1d1"
-  },
-  {
     "organisationName": "Warilla Pharmacy",
     "tradingName": null,
     "certificateNumber": "849",
@@ -85018,6 +84958,70 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Devonport Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "732",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "DEVONPORT",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-17T00:00:00",
+    "expiryDate": "2026-09-17T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "72fc4469-afcf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-09-16T21:57:15.855Z"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Cronulla",
+    "tradingName": null,
+    "certificateNumber": "5019",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "CRONULLA",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-17T00:00:00",
+    "expiryDate": "2026-09-17T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "bb97c366-accf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-09-16T21:57:15.855Z"
+  },
+  {
+    "organisationName": "TerryWhite Chemmart Winmalee",
+    "tradingName": null,
+    "certificateNumber": "544",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WINMALEE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-17T00:00:00",
+    "expiryDate": "2026-09-17T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "e7d5b1ce-b2cf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-09-16T21:57:15.855Z"
+  },
+  {
+    "organisationName": "Warialda Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "4275",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WARIALDA",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-17T00:00:00",
+    "expiryDate": "2026-09-17T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "ae21a864-b1cf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-09-16T21:57:15.855Z"
   },
   {
     "organisationName": "Bayside Pharmacy",
