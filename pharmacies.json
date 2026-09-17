@@ -8957,21 +8957,6 @@
   {
     "organisationName": "Broadwater Pharmacy",
     "tradingName": null,
-    "certificateNumber": "769",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BIGGERA WATERS",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2026-06-18T00:00:00",
-    "expiryDate": "2028-09-18T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "d023701d-b5cf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Broadwater Pharmacy",
-    "tradingName": null,
     "certificateNumber": "2888",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "BUSSELTON",
@@ -8983,6 +8968,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "f61764ac-b5cf-ed11-a7c7-6045bd3d5090"
+  },
+  {
+    "organisationName": "Broadwater Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "769",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BIGGERA WATERS",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2026-06-18T00:00:00",
+    "expiryDate": "2028-09-18T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "d023701d-b5cf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Bronberg Plaza Chempro Chemist",
@@ -12283,21 +12283,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "04fcf4b3-ed3a-43ca-8ddd-9ec6d1c04670"
-  },
-  {
-    "organisationName": "Chemist Discount Centre Burwood",
-    "tradingName": null,
-    "certificateNumber": "5283",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BURWOOD",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-18T00:00:00",
-    "expiryDate": "2026-09-18T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "28d89a0d-e8c6-4ce6-8db9-653e9ecfc7dd"
   },
   {
     "organisationName": "Chemist Discount Centre Canning Vale",
@@ -24060,21 +24045,6 @@
     "certificateId": "ac689b50-b5cf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Collaroy Plateau Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "1815",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "COLLAROY",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-18T00:00:00",
-    "expiryDate": "2026-09-18T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "caa52200-3fb0-4215-8e8c-54fe0b8d66a3"
-  },
-  {
     "organisationName": "Collie Healthsave Pharmacy",
     "tradingName": null,
     "certificateNumber": "5482",
@@ -26203,21 +26173,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "ba1f1fc7-afcf-ed11-a7c7-6045bd3d5090"
-  },
-  {
-    "organisationName": "David Wilson Day & Night Chemist - Kirrawee",
-    "tradingName": null,
-    "certificateNumber": "4050",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "KIRRAWEE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-18T00:00:00",
-    "expiryDate": "2026-09-18T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "960e7d0c-b3cf-ed11-a7c7-6045bd3d5090"
   },
   {
     "organisationName": "Davis Pharmacy",
@@ -41638,21 +41593,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "17f27d3e-b5cf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Lancelin Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "5432",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "LANCELIN",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-18T00:00:00",
-    "expiryDate": "2026-09-18T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "5e45efc7-1067-481c-a3b2-b4ac8deb26f8"
   },
   {
     "organisationName": "Landsdale Compounding Pharmacy",
@@ -58935,21 +58875,6 @@
     "certificateId": "a62991af-adcf-ed11-a7c7-00224818a1d1"
   },
   {
-    "organisationName": "Priceline Pharmacy Karingal",
-    "tradingName": null,
-    "certificateNumber": "1995",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "FRANKSTON SOUTH",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-18T00:00:00",
-    "expiryDate": "2026-09-18T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "595b22d4-aecf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Priceline Pharmacy Karrinyup",
     "tradingName": null,
     "certificateNumber": "3562",
@@ -62027,21 +61952,6 @@
   {
     "organisationName": "Priceline Pharmacy Warwick",
     "tradingName": null,
-    "certificateNumber": "1346",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WARWICK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2025-07-23T00:00:00",
-    "expiryDate": "2027-10-23T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "5a504b75-accf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Priceline Pharmacy Warwick",
-    "tradingName": null,
     "certificateNumber": "4348",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "WARWICK",
@@ -62053,6 +61963,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "d6df2fd5-b0cf-ed11-a7c7-00224818a490"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Warwick",
+    "tradingName": null,
+    "certificateNumber": "1346",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WARWICK",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2025-07-23T00:00:00",
+    "expiryDate": "2027-10-23T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "5a504b75-accf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Priceline Pharmacy Watergardens",
@@ -84958,6 +84883,86 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Chemist Discount Centre Burwood",
+    "tradingName": null,
+    "certificateNumber": "5283",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BURWOOD",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-18T00:00:00",
+    "expiryDate": "2026-09-18T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "28d89a0d-e8c6-4ce6-8db9-653e9ecfc7dd",
+    "delistedAt": "2026-09-17T21:58:16.566Z"
+  },
+  {
+    "organisationName": "Collaroy Plateau Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "1815",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "COLLAROY",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-18T00:00:00",
+    "expiryDate": "2026-09-18T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "caa52200-3fb0-4215-8e8c-54fe0b8d66a3",
+    "delistedAt": "2026-09-17T21:58:16.566Z"
+  },
+  {
+    "organisationName": "David Wilson Day & Night Chemist - Kirrawee",
+    "tradingName": null,
+    "certificateNumber": "4050",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "KIRRAWEE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-18T00:00:00",
+    "expiryDate": "2026-09-18T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "960e7d0c-b3cf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-09-17T21:58:16.566Z"
+  },
+  {
+    "organisationName": "Lancelin Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "5432",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "LANCELIN",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-18T00:00:00",
+    "expiryDate": "2026-09-18T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "5e45efc7-1067-481c-a3b2-b4ac8deb26f8",
+    "delistedAt": "2026-09-17T21:58:16.566Z"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Karingal",
+    "tradingName": null,
+    "certificateNumber": "1995",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "FRANKSTON SOUTH",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-18T00:00:00",
+    "expiryDate": "2026-09-18T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "595b22d4-aecf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-09-17T21:58:16.566Z"
   },
   {
     "organisationName": "Devonport Pharmacy",
