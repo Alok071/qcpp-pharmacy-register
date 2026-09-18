@@ -56700,21 +56700,6 @@
     "certificateId": "3c34b697-b1cf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Priceline Pharmacy Balgowlah",
-    "tradingName": null,
-    "certificateNumber": "5706",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BALGOWLAH",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-19T00:00:00",
-    "expiryDate": "2026-09-19T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "0b22a864-b1cf-ed11-a7c7-00224818a1d1"
-  },
-  {
     "organisationName": "Priceline Pharmacy Balwyn",
     "tradingName": null,
     "certificateNumber": "2566",
@@ -59893,21 +59878,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "65ff3ecb-fbf5-4795-8f66-ede4ca20ea51"
-  },
-  {
-    "organisationName": "Priceline Pharmacy Mt Eliza",
-    "tradingName": null,
-    "certificateNumber": "2853",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "MOUNT ELIZA",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-19T00:00:00",
-    "expiryDate": "2026-09-19T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "e7b0c409-afcf-ed11-a7c7-00224818ac1c"
   },
   {
     "organisationName": "Priceline Pharmacy Mt Lawley",
@@ -70873,21 +70843,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "86408b2e-3aa7-4239-9f3a-162a110a1f22"
-  },
-  {
-    "organisationName": "Terry White Chemmart Prospect Vale",
-    "tradingName": null,
-    "certificateNumber": "5332",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "PROSPECT VALE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-19T00:00:00",
-    "expiryDate": "2026-09-19T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "acfc4bf6-abcf-ed11-a7c7-6045bd3d5090"
   },
   {
     "organisationName": "Terry White Chemmart Raceview",
@@ -84883,6 +84838,54 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Balgowlah",
+    "tradingName": null,
+    "certificateNumber": "5706",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BALGOWLAH",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-19T00:00:00",
+    "expiryDate": "2026-09-19T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "0b22a864-b1cf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-09-18T21:28:41.423Z"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Mt Eliza",
+    "tradingName": null,
+    "certificateNumber": "2853",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "MOUNT ELIZA",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-19T00:00:00",
+    "expiryDate": "2026-09-19T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "e7b0c409-afcf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-09-18T21:28:41.424Z"
+  },
+  {
+    "organisationName": "Terry White Chemmart Prospect Vale",
+    "tradingName": null,
+    "certificateNumber": "5332",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "PROSPECT VALE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-19T00:00:00",
+    "expiryDate": "2026-09-19T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "acfc4bf6-abcf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-09-18T21:28:41.424Z"
   },
   {
     "organisationName": "Chemist Discount Centre Burwood",
