@@ -28140,21 +28140,6 @@
     "certificateId": "6db38f23-2b27-421e-b4b3-d4211e195b31"
   },
   {
-    "organisationName": "Direct Chemist Outlet Ripponlea",
-    "tradingName": null,
-    "certificateNumber": "737",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "RIPPONLEA",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-22T00:00:00",
-    "expiryDate": "2026-09-22T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "3d891967-913c-4047-8349-66c6917ffcc4"
-  },
-  {
     "organisationName": "Direct Chemist Outlet Riverdale",
     "tradingName": null,
     "certificateNumber": "6738",
@@ -28843,21 +28828,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "b7372fc9-b3cf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Discover Pharmacy Georges Hall",
-    "tradingName": null,
-    "certificateNumber": "4741",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "GEORGES HALL",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-22T00:00:00",
-    "expiryDate": "2026-09-22T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "bfafefa7-b5cf-ed11-a7c7-00224818ac1c"
   },
   {
     "organisationName": "Ditton's Pharmacy",
@@ -49573,21 +49543,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "efafed29-b4cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
-    "organisationName": "Nhill Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "2226",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "NHILL",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-22T00:00:00",
-    "expiryDate": "2026-09-22T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "394aab77-843e-4240-8fed-2f95a15e22bd"
   },
   {
     "organisationName": "Nick Knowles Pharmacist Advice",
@@ -78645,21 +78600,6 @@
     "certificateId": "788a1282-c82a-4b29-a9f5-d8c087ffaad1"
   },
   {
-    "organisationName": "Trigg Medical Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "408",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "TRIGG",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-22T00:00:00",
-    "expiryDate": "2026-09-22T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "af5a85fd-adcf-ed11-a7c7-00224818a1d1"
-  },
-  {
     "organisationName": "Trinh's Pharmacy",
     "tradingName": null,
     "certificateNumber": "1240",
@@ -84793,6 +84733,70 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Direct Chemist Outlet Ripponlea",
+    "tradingName": null,
+    "certificateNumber": "737",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "RIPPONLEA",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-22T00:00:00",
+    "expiryDate": "2026-09-22T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "3d891967-913c-4047-8349-66c6917ffcc4",
+    "delistedAt": "2026-09-21T22:29:54.234Z"
+  },
+  {
+    "organisationName": "Discover Pharmacy Georges Hall",
+    "tradingName": null,
+    "certificateNumber": "4741",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "GEORGES HALL",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-22T00:00:00",
+    "expiryDate": "2026-09-22T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "bfafefa7-b5cf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-09-21T22:29:54.234Z"
+  },
+  {
+    "organisationName": "Nhill Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "2226",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "NHILL",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-22T00:00:00",
+    "expiryDate": "2026-09-22T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "394aab77-843e-4240-8fed-2f95a15e22bd",
+    "delistedAt": "2026-09-21T22:29:54.234Z"
+  },
+  {
+    "organisationName": "Trigg Medical Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "408",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "TRIGG",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-22T00:00:00",
+    "expiryDate": "2026-09-22T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "af5a85fd-adcf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-09-21T22:29:54.234Z"
   },
   {
     "organisationName": "Direct Chemist Outlet Karingal",
