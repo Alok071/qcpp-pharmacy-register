@@ -9047,21 +9047,6 @@
   {
     "organisationName": "Broadwater Pharmacy",
     "tradingName": null,
-    "certificateNumber": "769",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BIGGERA WATERS",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2026-06-18T00:00:00",
-    "expiryDate": "2028-09-18T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "d023701d-b5cf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Broadwater Pharmacy",
-    "tradingName": null,
     "certificateNumber": "2888",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "BUSSELTON",
@@ -9073,6 +9058,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "f61764ac-b5cf-ed11-a7c7-6045bd3d5090"
+  },
+  {
+    "organisationName": "Broadwater Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "769",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BIGGERA WATERS",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2026-06-18T00:00:00",
+    "expiryDate": "2028-09-18T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "d023701d-b5cf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Broadway Express Discount Chemist",
@@ -28245,6 +28245,21 @@
     "certificateId": "c9afefa7-b5cf-ed11-a7c7-00224818ac1c"
   },
   {
+    "organisationName": "Direct Chemist Outlet Mt Eliza Village",
+    "tradingName": null,
+    "certificateNumber": "671",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "MOUNT ELIZA",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2026-09-27T00:00:00",
+    "expiryDate": "2028-12-27T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "a3ea32d8-adcf-ed11-a7c7-6045bd3d5090"
+  },
+  {
     "organisationName": "Direct Chemist Outlet Northcote",
     "tradingName": null,
     "certificateNumber": "509",
@@ -35863,21 +35878,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "b1c67e28-accf-ed11-a7c7-6045bd3d5090"
-  },
-  {
-    "organisationName": "Hallams Maroubra Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "4428",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "MAROUBRA",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-28T00:00:00",
-    "expiryDate": "2026-09-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "1babeb9f-b5cf-ed11-a7c7-6045bd3d5090"
   },
   {
     "organisationName": "Halls Creek Pharmacy",
@@ -62717,21 +62717,6 @@
   {
     "organisationName": "Priceline Pharmacy Warwick",
     "tradingName": null,
-    "certificateNumber": "1346",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WARWICK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2025-07-23T00:00:00",
-    "expiryDate": "2027-10-23T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "5a504b75-accf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Priceline Pharmacy Warwick",
-    "tradingName": null,
     "certificateNumber": "4348",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "WARWICK",
@@ -62743,6 +62728,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "d6df2fd5-b0cf-ed11-a7c7-00224818a490"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Warwick",
+    "tradingName": null,
+    "certificateNumber": "1346",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WARWICK",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2025-07-23T00:00:00",
+    "expiryDate": "2027-10-23T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "5a504b75-accf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Priceline Pharmacy Watergardens",
@@ -85920,6 +85920,22 @@
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
   },
   {
+    "organisationName": "Hallams Maroubra Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "4428",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "MAROUBRA",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-28T00:00:00",
+    "expiryDate": "2026-09-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "1babeb9f-b5cf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-09-27T21:53:22.303Z"
+  },
+  {
     "organisationName": "Better Health Pharmacy Seven Hills",
     "tradingName": null,
     "certificateNumber": "6706",
@@ -85965,22 +85981,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "bf19a2ef-b2cf-ed11-a7c7-00224818ac1c",
-    "delistedAt": "2026-09-25T22:01:54.566Z"
-  },
-  {
-    "organisationName": "Direct Chemist Outlet Mt Eliza Village",
-    "tradingName": null,
-    "certificateNumber": "671",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "MOUNT ELIZA",
-    "country": "Australia",
-    "status": "Expired",
-    "currentCertificationDate": "2024-09-27T00:00:00",
-    "expiryDate": "2026-12-27T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "a3ea32d8-adcf-ed11-a7c7-6045bd3d5090",
     "delistedAt": "2026-09-25T22:01:54.566Z"
   },
   {
