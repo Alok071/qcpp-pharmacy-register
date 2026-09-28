@@ -5265,6 +5265,21 @@
     "certificateId": "903b75da-aecf-ed11-a7c7-6045bd3d5090"
   },
   {
+    "organisationName": "Better Health Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "6706",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "SEVEN HILLS",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2026-09-28T00:00:00",
+    "expiryDate": "2028-12-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "7cadbf80-b1cf-ed11-a7c7-00224818a490"
+  },
+  {
     "organisationName": "Better Health Pharmacy Victoria Point",
     "tradingName": null,
     "certificateNumber": "5829",
@@ -9047,21 +9062,6 @@
   {
     "organisationName": "Broadwater Pharmacy",
     "tradingName": null,
-    "certificateNumber": "2888",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BUSSELTON",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-11-06T00:00:00",
-    "expiryDate": "2027-02-06T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "f61764ac-b5cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
-    "organisationName": "Broadwater Pharmacy",
-    "tradingName": null,
     "certificateNumber": "769",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "BIGGERA WATERS",
@@ -9073,6 +9073,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "d023701d-b5cf-ed11-a7c7-00224818a490"
+  },
+  {
+    "organisationName": "Broadwater Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "2888",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BUSSELTON",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2024-11-06T00:00:00",
+    "expiryDate": "2027-02-06T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "f61764ac-b5cf-ed11-a7c7-6045bd3d5090"
   },
   {
     "organisationName": "Broadway Express Discount Chemist",
@@ -10693,6 +10708,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "b18060e4-afcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Capital Chemist Southlands",
+    "tradingName": null,
+    "certificateNumber": "631",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "MAWSON",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2026-09-28T00:00:00",
+    "expiryDate": "2028-12-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "9d01c629-afcf-ed11-a7c7-00224818a1d1"
   },
   {
     "organisationName": "Capital Chemist Temora",
@@ -62717,21 +62747,6 @@
   {
     "organisationName": "Priceline Pharmacy Warwick",
     "tradingName": null,
-    "certificateNumber": "4348",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WARWICK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2025-10-15T00:00:00",
-    "expiryDate": "2028-01-15T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "d6df2fd5-b0cf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Priceline Pharmacy Warwick",
-    "tradingName": null,
     "certificateNumber": "1346",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "WARWICK",
@@ -62743,6 +62758,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "5a504b75-accf-ed11-a7c7-00224818a490"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Warwick",
+    "tradingName": null,
+    "certificateNumber": "4348",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WARWICK",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2025-10-15T00:00:00",
+    "expiryDate": "2028-01-15T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "d6df2fd5-b0cf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Priceline Pharmacy Watergardens",
@@ -67275,21 +67305,6 @@
     "certificateId": "caa63fa6-3caa-4d05-96ee-c555f2a7bed0"
   },
   {
-    "organisationName": "Slade Pharmacy Box Hill",
-    "tradingName": null,
-    "certificateNumber": "5725",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BOX HILL",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-29T00:00:00",
-    "expiryDate": "2026-09-29T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "9c3b75da-aecf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Slade Pharmacy Brisbane Private",
     "tradingName": null,
     "certificateNumber": "6976",
@@ -70183,21 +70198,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "7d7058a8-e1fe-404d-af33-b70e05f0958b"
-  },
-  {
-    "organisationName": "SuperChem Blacktown Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "5073",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BLACKTOWN",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-29T00:00:00",
-    "expiryDate": "2026-09-29T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "d64554e8-b3cf-ed11-a7c7-00224818ac1c"
   },
   {
     "organisationName": "SuperChem Butler",
@@ -85920,6 +85920,38 @@
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
   },
   {
+    "organisationName": "Slade Pharmacy Box Hill",
+    "tradingName": null,
+    "certificateNumber": "5725",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BOX HILL",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-29T00:00:00",
+    "expiryDate": "2026-09-29T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "9c3b75da-aecf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-09-28T23:46:58.936Z"
+  },
+  {
+    "organisationName": "SuperChem Blacktown Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "5073",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BLACKTOWN",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-29T00:00:00",
+    "expiryDate": "2026-09-29T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "d64554e8-b3cf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-09-28T23:46:58.937Z"
+  },
+  {
     "organisationName": "Hallams Maroubra Pharmacy",
     "tradingName": null,
     "certificateNumber": "4428",
@@ -85934,38 +85966,6 @@
     ],
     "certificateId": "1babeb9f-b5cf-ed11-a7c7-6045bd3d5090",
     "delistedAt": "2026-09-27T21:53:22.303Z"
-  },
-  {
-    "organisationName": "Better Health Pharmacy Seven Hills",
-    "tradingName": null,
-    "certificateNumber": "6706",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "SEVEN HILLS",
-    "country": "Australia",
-    "status": "Expired",
-    "currentCertificationDate": "2024-09-28T00:00:00",
-    "expiryDate": "2026-12-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "7cadbf80-b1cf-ed11-a7c7-00224818a490",
-    "delistedAt": "2026-09-25T22:01:54.566Z"
-  },
-  {
-    "organisationName": "Capital Chemist Southlands",
-    "tradingName": null,
-    "certificateNumber": "631",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "MAWSON",
-    "country": "Australia",
-    "status": "Expired",
-    "currentCertificationDate": "2024-09-28T00:00:00",
-    "expiryDate": "2026-12-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "9d01c629-afcf-ed11-a7c7-00224818a1d1",
-    "delistedAt": "2026-09-25T22:01:54.566Z"
   },
   {
     "organisationName": "Cincotta Discount Chemist Eastgardens 3F",
