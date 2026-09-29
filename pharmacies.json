@@ -2235,21 +2235,6 @@
     "certificateId": "c9c82d82-b2cf-ed11-a7c7-00224818ac1c"
   },
   {
-    "organisationName": "Amcal Westfield Plenty Valley",
-    "tradingName": null,
-    "certificateNumber": "2991",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "MILL PARK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-30T00:00:00",
-    "expiryDate": "2026-09-30T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "885b22d4-aecf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Amcal Yokine Pharmacy",
     "tradingName": null,
     "certificateNumber": "4857",
@@ -9062,21 +9047,6 @@
   {
     "organisationName": "Broadwater Pharmacy",
     "tradingName": null,
-    "certificateNumber": "769",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BIGGERA WATERS",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2026-06-18T00:00:00",
-    "expiryDate": "2028-09-18T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "d023701d-b5cf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Broadwater Pharmacy",
-    "tradingName": null,
     "certificateNumber": "2888",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "BUSSELTON",
@@ -9088,6 +9058,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "f61764ac-b5cf-ed11-a7c7-6045bd3d5090"
+  },
+  {
+    "organisationName": "Broadwater Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "769",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BIGGERA WATERS",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2026-06-18T00:00:00",
+    "expiryDate": "2028-09-18T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "d023701d-b5cf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Broadway Express Discount Chemist",
@@ -21720,21 +21705,6 @@
     "certificateId": "3a24701d-b5cf-ed11-a7c7-00224818a490"
   },
   {
-    "organisationName": "Chemist Warehouse Westfield Plenty Valley",
-    "tradingName": null,
-    "certificateNumber": "5639",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "MILL PARK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-30T00:00:00",
-    "expiryDate": "2026-09-30T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "65c75c7b-aecf-ed11-a7c7-00224818a1d1"
-  },
-  {
     "organisationName": "Chemist Warehouse Westfield West Lakes",
     "tradingName": null,
     "certificateNumber": "7069",
@@ -22363,21 +22333,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "8c55242e-b1cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
-    "organisationName": "Chesters Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "6144",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WAVERTON",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-30T00:00:00",
-    "expiryDate": "2026-09-30T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "8a194199-1da6-4830-964c-65417bc51c70"
   },
   {
     "organisationName": "Chesterville Pharmacy",
@@ -33178,21 +33133,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "8b8df52e-0748-4c27-b137-81f15acefaac"
-  },
-  {
-    "organisationName": "Gawler Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "3397",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "GAWLER",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-30T00:00:00",
-    "expiryDate": "2026-09-30T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "1cab9dab-6db3-4bc1-b9b1-f106f191b75a"
   },
   {
     "organisationName": "Gayndah Pharmacy",
@@ -62747,21 +62687,6 @@
   {
     "organisationName": "Priceline Pharmacy Warwick",
     "tradingName": null,
-    "certificateNumber": "1346",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WARWICK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2025-07-23T00:00:00",
-    "expiryDate": "2027-10-23T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "5a504b75-accf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Priceline Pharmacy Warwick",
-    "tradingName": null,
     "certificateNumber": "4348",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "WARWICK",
@@ -62773,6 +62698,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "d6df2fd5-b0cf-ed11-a7c7-00224818a490"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Warwick",
+    "tradingName": null,
+    "certificateNumber": "1346",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WARWICK",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2025-07-23T00:00:00",
+    "expiryDate": "2027-10-23T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "5a504b75-accf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Priceline Pharmacy Watergardens",
@@ -73438,21 +73378,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "c1d2aab4-2428-4514-9425-553d2848cf56"
-  },
-  {
-    "organisationName": "TerryWhite Chemmart Chancellor",
-    "tradingName": null,
-    "certificateNumber": "2452",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "SIPPY DOWNS",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-06-30T00:00:00",
-    "expiryDate": "2026-09-30T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "bdba2033-b0cf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "TerryWhite Chemmart Charlestown",
@@ -85918,6 +85843,86 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Amcal Westfield Plenty Valley",
+    "tradingName": null,
+    "certificateNumber": "2991",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "MILL PARK",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-30T00:00:00",
+    "expiryDate": "2026-09-30T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "885b22d4-aecf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-09-29T22:53:20.530Z"
+  },
+  {
+    "organisationName": "Chemist Warehouse Westfield Plenty Valley",
+    "tradingName": null,
+    "certificateNumber": "5639",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "MILL PARK",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-30T00:00:00",
+    "expiryDate": "2026-09-30T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "65c75c7b-aecf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-09-29T22:53:20.531Z"
+  },
+  {
+    "organisationName": "Chesters Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "6144",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WAVERTON",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-30T00:00:00",
+    "expiryDate": "2026-09-30T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "8a194199-1da6-4830-964c-65417bc51c70",
+    "delistedAt": "2026-09-29T22:53:20.531Z"
+  },
+  {
+    "organisationName": "Gawler Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "3397",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "GAWLER",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-30T00:00:00",
+    "expiryDate": "2026-09-30T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "1cab9dab-6db3-4bc1-b9b1-f106f191b75a",
+    "delistedAt": "2026-09-29T22:53:20.531Z"
+  },
+  {
+    "organisationName": "TerryWhite Chemmart Chancellor",
+    "tradingName": null,
+    "certificateNumber": "2452",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "SIPPY DOWNS",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-06-30T00:00:00",
+    "expiryDate": "2026-09-30T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "bdba2033-b0cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-09-29T22:53:20.531Z"
   },
   {
     "organisationName": "Slade Pharmacy Box Hill",
