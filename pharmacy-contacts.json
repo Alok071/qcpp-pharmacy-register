@@ -43438,5 +43438,79 @@
     "phone": "0247218117",
     "email": "westfieldpharmacy1@gmail.com",
     "checkedAt": "2026-09-25T22:02:48.557Z"
+  },
+  "cc911dcd-5bd7-4793-8641-a047b1699d63": {
+    "matched": false,
+    "checkedAt": "2026-09-30T22:51:54.836Z"
+  },
+  "80a309ca-dc3e-479f-b88b-2b5ce5d7cb19": {
+    "matched": true,
+    "matchedOrgName": "Chemist Warehouse Aitkenvale",
+    "score": 1,
+    "phone": "07 2146 1060",
+    "email": "aitkenvale@chemistwarehouse.com.au",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "checkedAt": "2026-09-30T22:51:54.845Z"
+  },
+  "1d3d8b1b-ef31-4e34-91e4-cbd817026840": {
+    "matched": true,
+    "matchedOrgName": "Chemist Discount Centre Melton",
+    "score": 1,
+    "phone": "03 9747 8444",
+    "email": "melton@activepharmacy.com.au",
+    "website": "http://www.activepharmacy.com.au/",
+    "checkedAt": "2026-09-30T22:51:56.312Z"
+  },
+  "b4961b2e-6e61-4bb3-8b96-83b723b8cf89": {
+    "matched": true,
+    "matchedOrgName": "Jells Park Pharmacy",
+    "score": 1,
+    "phone": "03 9574 9188",
+    "checkedAt": "2026-09-30T22:51:57.074Z"
+  },
+  "2acfb0c7-f208-4254-9b7f-30ec78650ec9": {
+    "matched": true,
+    "matchedOrgName": "Cincotta Discount Chemist Eastgardens 3F",
+    "score": 1,
+    "phone": "02 9344 5384",
+    "email": "eastgardenschemist@gmail.com",
+    "website": "https://www.cincottachemist.com.au/",
+    "checkedAt": "2026-09-30T22:51:57.329Z"
+  },
+  "fc3ae977-318d-40bd-923c-22490bfb84e6": {
+    "matched": true,
+    "matchedOrgName": "Lancelin Pharmacy",
+    "score": 1,
+    "phone": "0896552777",
+    "email": "lancelinpharmacy@bigpond.com",
+    "website": "https://lancelinpharmacy.com.au/",
+    "checkedAt": "2026-09-30T22:51:58.380Z"
+  },
+  "963cbfe7-5410-4677-9404-620ab213fa60": {
+    "matched": true,
+    "matchedOrgName": "Longueville Chemist",
+    "score": 1,
+    "phone": "02 9878 0806",
+    "email": "longuevillechemist@gmail.com",
+    "checkedAt": "2026-09-30T22:51:59.823Z"
+  },
+  "812c647b-e5c6-4065-abdd-8bebc6ef9441": {
+    "matched": false,
+    "checkedAt": "2026-09-30T22:52:02.106Z"
+  },
+  "77e6cfab-a0de-40d4-871e-88d507f5ab47": {
+    "matched": true,
+    "matchedOrgName": "PRICELINE PHARMACY RIVERLEA",
+    "score": 1,
+    "phone": "08 7095 6993",
+    "checkedAt": "2026-09-30T22:52:03.437Z"
+  },
+  "c03ca9f3-7772-4326-9742-1dabee59c250": {
+    "matched": true,
+    "matchedOrgName": "The Henty Pharmacy",
+    "score": 1,
+    "phone": "02 6929 3174",
+    "email": "henty.pharmacy@outlook.com",
+    "checkedAt": "2026-09-30T22:52:05.800Z"
   }
 }
