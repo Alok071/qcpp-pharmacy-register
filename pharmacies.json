@@ -82695,21 +82695,6 @@
     "certificateId": "29c044dd-ca4b-4445-9752-cea218cc5c55"
   },
   {
-    "organisationName": "Wells Road Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "6205",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "CHELSEA HEIGHTS",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-03T00:00:00",
-    "expiryDate": "2026-10-03T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "9d0f53bb-96d8-4772-947f-589533916fab"
-  },
-  {
     "organisationName": "Wembley Pharmacy",
     "tradingName": null,
     "certificateNumber": "2008",
@@ -86038,6 +86023,22 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Wells Road Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "6205",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "CHELSEA HEIGHTS",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-03T00:00:00",
+    "expiryDate": "2026-10-03T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "9d0f53bb-96d8-4772-947f-589533916fab",
+    "delistedAt": "2026-10-02T22:52:09.774Z"
   },
   {
     "organisationName": "Amcal Westfield Plenty Valley",
