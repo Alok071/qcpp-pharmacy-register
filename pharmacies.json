@@ -3810,21 +3810,6 @@
     "certificateId": "ec3b75da-aecf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Barham TerryWhite Chemmart Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "4183",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BARHAM",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-12T00:00:00",
-    "expiryDate": "2026-10-12T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "58543f77-adcf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Barmera Pharmacy",
     "tradingName": null,
     "certificateNumber": "1544",
@@ -8173,21 +8158,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "fc51f5cb-accf-ed11-a7c7-00224818a1d1"
-  },
-  {
-    "organisationName": "Boort Community Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "1082",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BOORT",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-12T00:00:00",
-    "expiryDate": "2026-10-12T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "942edb68-b2cf-ed11-a7c7-00224818ac1c"
   },
   {
     "organisationName": "Booth Street Pharmacy",
@@ -85993,6 +85963,38 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Barham TerryWhite Chemmart Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "4183",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BARHAM",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-12T00:00:00",
+    "expiryDate": "2026-10-12T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "58543f77-adcf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-10-11T22:43:21.613Z"
+  },
+  {
+    "organisationName": "Boort Community Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "1082",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BOORT",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-12T00:00:00",
+    "expiryDate": "2026-10-12T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "942edb68-b2cf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-10-11T22:43:21.613Z"
   },
   {
     "organisationName": "Midland Gate Pharmacy",
