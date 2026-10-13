@@ -75060,21 +75060,6 @@
     "certificateId": "be01c629-afcf-ed11-a7c7-00224818a1d1"
   },
   {
-    "organisationName": "TerryWhite Chemmart Kerang",
-    "tradingName": null,
-    "certificateNumber": "2634",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "KERANG",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-13T00:00:00",
-    "expiryDate": "2026-10-13T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "4351ccb0-b0cf-ed11-a7c7-00224818a1d1"
-  },
-  {
     "organisationName": "TerryWhite Chemmart Kew",
     "tradingName": null,
     "certificateNumber": "128",
@@ -85963,6 +85948,22 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "TerryWhite Chemmart Kerang",
+    "tradingName": null,
+    "certificateNumber": "2634",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "KERANG",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-13T00:00:00",
+    "expiryDate": "2026-10-13T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "4351ccb0-b0cf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-10-13T01:09:58.457Z"
   },
   {
     "organisationName": "Barham TerryWhite Chemmart Pharmacy",
