@@ -53460,21 +53460,6 @@
     "certificateId": "c5cc5bb7-aecf-ed11-a7c7-00224818a1d1"
   },
   {
-    "organisationName": "Phamacy Alliance Woden",
-    "tradingName": null,
-    "certificateNumber": "547",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "PHILLIP",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-15T00:00:00",
-    "expiryDate": "2026-10-15T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "b25acb8a-9fc6-4412-a944-39b56239f4af"
-  },
-  {
     "organisationName": "Phams Pharmacy",
     "tradingName": null,
     "certificateNumber": "4983",
@@ -69840,21 +69825,6 @@
     "certificateId": "7e90138f-b3cf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Strathfield Boulevarde Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "3869",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "STRATHFIELD",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-15T00:00:00",
-    "expiryDate": "2026-10-15T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "80a719a8-b2cf-ed11-a7c7-00224818a1d1"
-  },
-  {
     "organisationName": "Strathmore Pharmacy",
     "tradingName": null,
     "certificateNumber": "1185",
@@ -85948,6 +85918,38 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Phamacy Alliance Woden",
+    "tradingName": null,
+    "certificateNumber": "547",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "PHILLIP",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-15T00:00:00",
+    "expiryDate": "2026-10-15T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "b25acb8a-9fc6-4412-a944-39b56239f4af",
+    "delistedAt": "2026-10-14T22:06:21.997Z"
+  },
+  {
+    "organisationName": "Strathfield Boulevarde Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "3869",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "STRATHFIELD",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-15T00:00:00",
+    "expiryDate": "2026-10-15T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "80a719a8-b2cf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-10-14T22:06:21.997Z"
   },
   {
     "organisationName": "TerryWhite Chemmart Kerang",
