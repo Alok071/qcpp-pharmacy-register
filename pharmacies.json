@@ -80415,21 +80415,6 @@
     "certificateId": "f9fc4bf6-abcf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Union Road Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "6894",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "ASCOT VALE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-18T00:00:00",
-    "expiryDate": "2026-10-18T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "071f5202-b1cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Uniplaza Pharmacy Toowoomba",
     "tradingName": null,
     "certificateNumber": "5605",
@@ -84720,21 +84705,6 @@
     "certificateId": "3cc2d986-b0cf-ed11-a7c7-00224818a490"
   },
   {
-    "organisationName": "Worrigee Medical Centre Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "6228",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WORRIGEE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-18T00:00:00",
-    "expiryDate": "2026-10-18T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "b87b1713-ee88-480c-b38f-ddd4963065c7"
-  },
-  {
     "organisationName": "Woy Woy Pharmacy",
     "tradingName": null,
     "certificateNumber": "805",
@@ -85888,6 +85858,38 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Union Road Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "6894",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "ASCOT VALE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-18T00:00:00",
+    "expiryDate": "2026-10-18T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "071f5202-b1cf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-10-17T21:18:08.420Z"
+  },
+  {
+    "organisationName": "Worrigee Medical Centre Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "6228",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WORRIGEE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-18T00:00:00",
+    "expiryDate": "2026-10-18T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "b87b1713-ee88-480c-b38f-ddd4963065c7",
+    "delistedAt": "2026-10-17T21:18:08.420Z"
   },
   {
     "organisationName": "Nairne Pharmacy",
