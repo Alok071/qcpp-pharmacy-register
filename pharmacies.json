@@ -11760,21 +11760,6 @@
     "certificateId": "1acfe760-052d-4f74-ba7a-a3b568a0a4d7"
   },
   {
-    "organisationName": "Centre Health Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "6197",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BARRACK HEIGHTS",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-19T00:00:00",
-    "expiryDate": "2026-10-19T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "4075db90-a545-48e6-be84-8db2e9cb1e6c"
-  },
-  {
     "organisationName": "Centre Pharmacy Soul Pattinson Chemist",
     "tradingName": null,
     "certificateNumber": "3503",
@@ -85858,6 +85843,22 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Centre Health Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "6197",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BARRACK HEIGHTS",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-19T00:00:00",
+    "expiryDate": "2026-10-19T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "4075db90-a545-48e6-be84-8db2e9cb1e6c",
+    "delistedAt": "2026-10-18T21:19:57.048Z"
   },
   {
     "organisationName": "Union Road Pharmacy",
