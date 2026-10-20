@@ -11460,21 +11460,6 @@
     "certificateId": "6f547168-5833-40f1-a2bb-40129eb8c4c4"
   },
   {
-    "organisationName": "Castletown Chemist",
-    "tradingName": null,
-    "certificateNumber": "3043",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "ESPERANCE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-21T00:00:00",
-    "expiryDate": "2026-10-21T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "6cba2033-b0cf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "Casuarina Health and Lifestyle Pharmacy",
     "tradingName": null,
     "certificateNumber": "6440",
@@ -61605,21 +61590,6 @@
     "certificateId": "570862b9-b5cf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Priceline Pharmacy Roselands",
-    "tradingName": null,
-    "certificateNumber": "3147",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "ROSELANDS",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-21T00:00:00",
-    "expiryDate": "2026-10-21T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "782a3fe8-b2cf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "Priceline Pharmacy Rouse Hill",
     "tradingName": null,
     "certificateNumber": "1685",
@@ -85813,6 +85783,38 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Castletown Chemist",
+    "tradingName": null,
+    "certificateNumber": "3043",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "ESPERANCE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-21T00:00:00",
+    "expiryDate": "2026-10-21T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "6cba2033-b0cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-10-20T22:11:13.246Z"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Roselands",
+    "tradingName": null,
+    "certificateNumber": "3147",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "ROSELANDS",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-21T00:00:00",
+    "expiryDate": "2026-10-21T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "782a3fe8-b2cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-10-20T22:11:13.246Z"
   },
   {
     "organisationName": "Hope Island 7 Day Amcal Chemist",
