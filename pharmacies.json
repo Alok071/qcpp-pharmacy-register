@@ -81000,21 +81000,6 @@
     "certificateId": "a35dee15-b1cf-ed11-a7c7-00224818a490"
   },
   {
-    "organisationName": "Value Plus Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "3834",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "RODD POINT",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-25T00:00:00",
-    "expiryDate": "2026-10-25T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "9226f380-92bb-4268-8352-5376f52e1476"
-  },
-  {
     "organisationName": "Vanstan's Pharmacy",
     "tradingName": null,
     "certificateNumber": "3264",
@@ -85753,6 +85738,22 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Value Plus Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "3834",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "RODD POINT",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-25T00:00:00",
+    "expiryDate": "2026-10-25T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "9226f380-92bb-4268-8352-5376f52e1476",
+    "delistedAt": "2026-10-24T21:27:27.611Z"
   },
   {
     "organisationName": "Eight Mile Plains Discount Drug Store",
