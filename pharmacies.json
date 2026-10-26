@@ -59100,21 +59100,6 @@
     "certificateId": "26bec119-2e8c-4565-8a0b-f694ef253954"
   },
   {
-    "organisationName": "Priceline Pharmacy Grand Central",
-    "tradingName": null,
-    "certificateNumber": "3655",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "TOOWOOMBA",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-27T00:00:00",
-    "expiryDate": "2026-10-27T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "8b8481f1-afcf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Priceline Pharmacy Green Valley",
     "tradingName": null,
     "certificateNumber": "810",
@@ -85738,6 +85723,22 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Grand Central",
+    "tradingName": null,
+    "certificateNumber": "3655",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "TOOWOOMBA",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-27T00:00:00",
+    "expiryDate": "2026-10-27T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "8b8481f1-afcf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-10-26T23:04:59.693Z"
   },
   {
     "organisationName": "Value Plus Pharmacy",
