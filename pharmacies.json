@@ -1545,21 +1545,6 @@
     "certificateId": "d171dd64-e464-4745-ac80-fd08c01fb49b"
   },
   {
-    "organisationName": "Amcal Express Burswood",
-    "tradingName": null,
-    "certificateNumber": "2771",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BURSWOOD",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-28T00:00:00",
-    "expiryDate": "2026-10-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "8a9ab79b-accf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Amcal Express Marden Chemist",
     "tradingName": null,
     "certificateNumber": "150",
@@ -67815,21 +67800,6 @@
     "certificateId": "e53c9aed-a9a1-476a-b483-73ef9d42d0ea"
   },
   {
-    "organisationName": "South City Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "4885",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "GLENFIELD PARK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-28T00:00:00",
-    "expiryDate": "2026-10-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "c694c052-b1cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "South Hurstville Market Pharmacy",
     "tradingName": null,
     "certificateNumber": "3643",
@@ -80790,21 +80760,6 @@
     "certificateId": "c310a2cf-ffd2-4275-9bc7-02dcebf0789f"
   },
   {
-    "organisationName": "United Chemists Yorketown",
-    "tradingName": null,
-    "certificateNumber": "3649",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "YORKETOWN",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-28T00:00:00",
-    "expiryDate": "2026-10-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "f163c5ce-b1cf-ed11-a7c7-00224818ac1c"
-  },
-  {
     "organisationName": "University Pharmacy",
     "tradingName": null,
     "certificateNumber": "1261",
@@ -85723,6 +85678,54 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Amcal Express Burswood",
+    "tradingName": null,
+    "certificateNumber": "2771",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BURSWOOD",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-28T00:00:00",
+    "expiryDate": "2026-10-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "8a9ab79b-accf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-10-27T22:53:59.660Z"
+  },
+  {
+    "organisationName": "South City Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "4885",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "GLENFIELD PARK",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-28T00:00:00",
+    "expiryDate": "2026-10-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "c694c052-b1cf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-10-27T22:53:59.661Z"
+  },
+  {
+    "organisationName": "United Chemists Yorketown",
+    "tradingName": null,
+    "certificateNumber": "3649",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "YORKETOWN",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-28T00:00:00",
+    "expiryDate": "2026-10-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "f163c5ce-b1cf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-10-27T22:53:59.661Z"
   },
   {
     "organisationName": "Priceline Pharmacy Grand Central",
