@@ -61335,21 +61335,6 @@
     "certificateId": "7863c768-fb77-471a-8952-5017bc7d5f45"
   },
   {
-    "organisationName": "Priceline Pharmacy Redbank Plaza",
-    "tradingName": null,
-    "certificateNumber": "1925",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "REDBANK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-29T00:00:00",
-    "expiryDate": "2026-10-29T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "d41f515f-1d54-4488-a3b7-6caf558d9a1a"
-  },
-  {
     "organisationName": "Priceline Pharmacy Renmark",
     "tradingName": null,
     "certificateNumber": "1324",
@@ -85678,6 +85663,22 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Redbank Plaza",
+    "tradingName": null,
+    "certificateNumber": "1925",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "REDBANK",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-29T00:00:00",
+    "expiryDate": "2026-10-29T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "d41f515f-1d54-4488-a3b7-6caf558d9a1a",
+    "delistedAt": "2026-10-28T22:59:13.627Z"
   },
   {
     "organisationName": "Amcal Express Burswood",
