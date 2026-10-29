@@ -31410,21 +31410,6 @@
     "certificateId": "caa619a8-b2cf-ed11-a7c7-00224818a1d1"
   },
   {
-    "organisationName": "Family Care Chemist",
-    "tradingName": null,
-    "certificateNumber": "3029",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "AUBURN",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-30T00:00:00",
-    "expiryDate": "2026-10-30T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "2a24676e-b3cf-ed11-a7c7-00224818ac1c"
-  },
-  {
     "organisationName": "Family Care Pharmacy",
     "tradingName": null,
     "certificateNumber": "1116",
@@ -53250,21 +53235,6 @@
     "certificateId": "f4e43833-b2cf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Peter Smith TerryWhite Chemmart",
-    "tradingName": null,
-    "certificateNumber": "425",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "ORANGE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-30T00:00:00",
-    "expiryDate": "2026-10-30T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "303c7c5d-adcf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Peter Thompsons Pharmacy",
     "tradingName": null,
     "certificateNumber": "3100",
@@ -53473,21 +53443,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "0063490e-79be-440c-b2f1-24b0b364924e"
-  },
-  {
-    "organisationName": "Pharmacy + Co Fulham Gardens",
-    "tradingName": null,
-    "certificateNumber": "2089",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "FULHAM GARDENS",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-30T00:00:00",
-    "expiryDate": "2026-10-30T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "6610b42f-b5cf-ed11-a7c7-6045bd3d5090"
   },
   {
     "organisationName": "Pharmacy + Co Kings Meadows",
@@ -74370,21 +74325,6 @@
     "certificateId": "55891689-b3cf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "TerryWhite Chemmart Hadfield",
-    "tradingName": null,
-    "certificateNumber": "3053",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "HADFIELD",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-07-30T00:00:00",
-    "expiryDate": "2026-10-30T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "4ab09f1e-7dce-414d-82a3-00f58473ea24"
-  },
-  {
     "organisationName": "TerryWhite Chemmart Hallett Cove",
     "tradingName": null,
     "certificateNumber": "777",
@@ -85663,6 +85603,70 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Family Care Chemist",
+    "tradingName": null,
+    "certificateNumber": "3029",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "AUBURN",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-30T00:00:00",
+    "expiryDate": "2026-10-30T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "2a24676e-b3cf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-10-29T23:08:33.426Z"
+  },
+  {
+    "organisationName": "Peter Smith TerryWhite Chemmart",
+    "tradingName": null,
+    "certificateNumber": "425",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "ORANGE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-30T00:00:00",
+    "expiryDate": "2026-10-30T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "303c7c5d-adcf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-10-29T23:08:33.426Z"
+  },
+  {
+    "organisationName": "Pharmacy + Co Fulham Gardens",
+    "tradingName": null,
+    "certificateNumber": "2089",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "FULHAM GARDENS",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-30T00:00:00",
+    "expiryDate": "2026-10-30T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "6610b42f-b5cf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-10-29T23:08:33.426Z"
+  },
+  {
+    "organisationName": "TerryWhite Chemmart Hadfield",
+    "tradingName": null,
+    "certificateNumber": "3053",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "HADFIELD",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-07-30T00:00:00",
+    "expiryDate": "2026-10-30T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "4ab09f1e-7dce-414d-82a3-00f58473ea24",
+    "delistedAt": "2026-10-29T23:08:33.426Z"
   },
   {
     "organisationName": "Priceline Pharmacy Redbank Plaza",
