@@ -60630,21 +60630,6 @@
     "certificateId": "5c8f6adc-b1cf-ed11-a7c7-00224818a1d1"
   },
   {
-    "organisationName": "Priceline Pharmacy Marsden Park",
-    "tradingName": null,
-    "certificateNumber": "6862",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "MARSDEN PARK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-01T00:00:00",
-    "expiryDate": "2026-11-01T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "41fa6425-afcf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Priceline Pharmacy Maryborough",
     "tradingName": null,
     "certificateNumber": "2009",
@@ -67858,21 +67843,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "70dcd45b-d046-45be-acc0-4694cde33149"
-  },
-  {
-    "organisationName": "Slade Pharmacy Geelong",
-    "tradingName": null,
-    "certificateNumber": "6876",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WAURN PONDS",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-01T00:00:00",
-    "expiryDate": "2026-11-01T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "3aa74c7b-3f46-49a4-a742-3f166a346ca9"
   },
   {
     "organisationName": "Slade Pharmacy Grey Street",
@@ -86563,6 +86533,38 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Marsden Park",
+    "tradingName": null,
+    "certificateNumber": "6862",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "MARSDEN PARK",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-01T00:00:00",
+    "expiryDate": "2026-11-01T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "41fa6425-afcf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-10-31T22:16:25.192Z"
+  },
+  {
+    "organisationName": "Slade Pharmacy Geelong",
+    "tradingName": null,
+    "certificateNumber": "6876",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WAURN PONDS",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-01T00:00:00",
+    "expiryDate": "2026-11-01T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "3aa74c7b-3f46-49a4-a742-3f166a346ca9",
+    "delistedAt": "2026-10-31T22:16:25.192Z"
   },
   {
     "organisationName": "Family Care Chemist",
