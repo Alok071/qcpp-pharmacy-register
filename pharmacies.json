@@ -45045,21 +45045,6 @@
     "certificateId": "464d79a6-7abd-485f-a877-24fed7c4cdbc"
   },
   {
-    "organisationName": "Manly Corso Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "1986",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "MANLY",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-02T00:00:00",
-    "expiryDate": "2026-11-02T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "752493cd-adcf-ed11-a7c7-00224818a1d1"
-  },
-  {
     "organisationName": "Manly Vale Pharmacy",
     "tradingName": null,
     "certificateNumber": "3969",
@@ -86533,6 +86518,22 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Manly Corso Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "1986",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "MANLY",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-02T00:00:00",
+    "expiryDate": "2026-11-02T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "752493cd-adcf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-11-01T22:38:15.493Z"
   },
   {
     "organisationName": "Priceline Pharmacy Marsden Park",
