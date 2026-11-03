@@ -77460,21 +77460,6 @@
     "certificateId": "3e4f3839-b2cf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "TerryWhite Chemmart South Melbourne",
-    "tradingName": null,
-    "certificateNumber": "2946",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "SOUTH MELBOURNE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-04T00:00:00",
-    "expiryDate": "2026-11-04T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "3a684cb2-b1cf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "TerryWhite Chemmart Southcity Bunbury",
     "tradingName": null,
     "certificateNumber": "1622",
@@ -79423,21 +79408,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "38a5963e-a2aa-4c82-ac6c-cf0c28039f19"
-  },
-  {
-    "organisationName": "The Wesley Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "4064",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "AUCHENFLOWER",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-04T00:00:00",
-    "expiryDate": "2026-11-04T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "9d2fdd61-b4cf-ed11-a7c7-6045bd3d5090"
   },
   {
     "organisationName": "Thengs Pharmacy",
@@ -86518,6 +86488,38 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "TerryWhite Chemmart South Melbourne",
+    "tradingName": null,
+    "certificateNumber": "2946",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "SOUTH MELBOURNE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-04T00:00:00",
+    "expiryDate": "2026-11-04T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "3a684cb2-b1cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-11-03T01:30:14.550Z"
+  },
+  {
+    "organisationName": "The Wesley Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "4064",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "AUCHENFLOWER",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-04T00:00:00",
+    "expiryDate": "2026-11-04T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "9d2fdd61-b4cf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-11-03T01:30:14.550Z"
   },
   {
     "organisationName": "Manly Corso Pharmacy",
