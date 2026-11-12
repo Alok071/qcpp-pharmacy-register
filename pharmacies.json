@@ -19725,21 +19725,6 @@
     "certificateId": "f663c5ce-b1cf-ed11-a7c7-00224818ac1c"
   },
   {
-    "organisationName": "Chemist Warehouse O'Connor",
-    "tradingName": null,
-    "certificateNumber": "6992",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "SOMERVILLE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-12T00:00:00",
-    "expiryDate": "2026-11-12T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "daee2b15-bbbf-44f1-9ac9-2fa17358fa37"
-  },
-  {
     "organisationName": "Chemist Warehouse Old South Head Road Rose Bay",
     "tradingName": null,
     "certificateNumber": "1462",
@@ -41383,21 +41368,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "89cb6d32-accf-ed11-a7c7-00224818ac1c"
-  },
-  {
-    "organisationName": "Kings Park Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "3069",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "PERTH",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-12T00:00:00",
-    "expiryDate": "2026-11-12T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "e44b681b-aecf-ed11-a7c7-00224818a1d1"
   },
   {
     "organisationName": "Kings Pharmacy",
@@ -86458,6 +86428,38 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Chemist Warehouse O'Connor",
+    "tradingName": null,
+    "certificateNumber": "6992",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "SOMERVILLE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-12T00:00:00",
+    "expiryDate": "2026-11-12T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "daee2b15-bbbf-44f1-9ac9-2fa17358fa37",
+    "delistedAt": "2026-11-12T01:21:47.513Z"
+  },
+  {
+    "organisationName": "Kings Park Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "3069",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "PERTH",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-12T00:00:00",
+    "expiryDate": "2026-11-12T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "e44b681b-aecf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-11-12T01:21:47.513Z"
   },
   {
     "organisationName": "TerryWhite Chemmart Armidale",
