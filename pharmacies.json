@@ -46517,21 +46517,6 @@
   {
     "organisationName": "Merriwa Pharmacy",
     "tradingName": null,
-    "certificateNumber": "5313",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "MERRIWA",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2026-09-14T00:00:00",
-    "expiryDate": "2029-12-05T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "14097395-b2cf-ed11-a7c7-00224818ac1c"
-  },
-  {
-    "organisationName": "Merriwa Pharmacy",
-    "tradingName": null,
     "certificateNumber": "2476",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "MERRIWA",
@@ -46543,6 +46528,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6f797993-aecf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Merriwa Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "5313",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "MERRIWA",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2026-09-14T00:00:00",
+    "expiryDate": "2029-12-05T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "14097395-b2cf-ed11-a7c7-00224818ac1c"
   },
   {
     "organisationName": "Merrylands Late Night Pharmacy",
@@ -63047,21 +63047,6 @@
   {
     "organisationName": "Priceline Pharmacy Warwick",
     "tradingName": null,
-    "certificateNumber": "1346",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WARWICK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2025-07-23T00:00:00",
-    "expiryDate": "2028-09-18T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "5a504b75-accf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Priceline Pharmacy Warwick",
-    "tradingName": null,
     "certificateNumber": "4348",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "WARWICK",
@@ -63073,6 +63058,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "d6df2fd5-b0cf-ed11-a7c7-00224818a490"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Warwick",
+    "tradingName": null,
+    "certificateNumber": "1346",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WARWICK",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2025-07-23T00:00:00",
+    "expiryDate": "2028-09-18T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "5a504b75-accf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Priceline Pharmacy Watergardens",
