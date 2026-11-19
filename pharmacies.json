@@ -23010,21 +23010,6 @@
     "certificateId": "94c41fbd-b3cf-ed11-a7c7-00224818ac1c"
   },
   {
-    "organisationName": "Churchill Centre Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "6243",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "KILBURN",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-20T00:00:00",
-    "expiryDate": "2026-11-20T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "adc095e0-ce6b-4a57-9303-215cf1b9ffaa"
-  },
-  {
     "organisationName": "Cincotta Chemist Auburn",
     "tradingName": null,
     "certificateNumber": "3458",
@@ -27418,21 +27403,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "1eddbf14-f49c-47b5-b734-1758a0b7ff88"
-  },
-  {
-    "organisationName": "Direct Chemist Outlet Bittern",
-    "tradingName": null,
-    "certificateNumber": "6103",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BITTERN",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-20T00:00:00",
-    "expiryDate": "2026-11-20T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "d669a1cf-b3cf-ed11-a7c7-00224818ac1c"
   },
   {
     "organisationName": "Direct Chemist Outlet Botanical Village",
@@ -86368,6 +86338,38 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Churchill Centre Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "6243",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "KILBURN",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-20T00:00:00",
+    "expiryDate": "2026-11-20T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "adc095e0-ce6b-4a57-9303-215cf1b9ffaa",
+    "delistedAt": "2026-11-19T01:00:35.909Z"
+  },
+  {
+    "organisationName": "Direct Chemist Outlet Bittern",
+    "tradingName": null,
+    "certificateNumber": "6103",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BITTERN",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-20T00:00:00",
+    "expiryDate": "2026-11-20T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "d669a1cf-b3cf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-11-19T01:00:35.909Z"
   },
   {
     "organisationName": "North Shore Hospital Pharmacy",
