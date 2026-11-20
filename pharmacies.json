@@ -9167,21 +9167,6 @@
   {
     "organisationName": "Broadwater Pharmacy",
     "tradingName": null,
-    "certificateNumber": "2888",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BUSSELTON",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-11-06T00:00:00",
-    "expiryDate": "2027-04-20T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "f61764ac-b5cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
-    "organisationName": "Broadwater Pharmacy",
-    "tradingName": null,
     "certificateNumber": "769",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "BIGGERA WATERS",
@@ -9193,6 +9178,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "d023701d-b5cf-ed11-a7c7-00224818a490"
+  },
+  {
+    "organisationName": "Broadwater Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "2888",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BUSSELTON",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2024-11-06T00:00:00",
+    "expiryDate": "2027-04-20T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "f61764ac-b5cf-ed11-a7c7-6045bd3d5090"
   },
   {
     "organisationName": "Broadway Express Discount Chemist",
@@ -24808,21 +24808,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "46deb1bb-b4cf-ed11-a7c7-00224818a490"
-  },
-  {
-    "organisationName": "Complete Care Pharmacy Burnie",
-    "tradingName": null,
-    "certificateNumber": "211",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BURNIE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-21T00:00:00",
-    "expiryDate": "2026-11-21T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "335c42fb-b1cf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Complete Care Pharmacy Health Hub",
@@ -62957,21 +62942,6 @@
   {
     "organisationName": "Priceline Pharmacy Warringah Mall",
     "tradingName": null,
-    "certificateNumber": "5724",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BROOKVALE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2026-05-20T00:00:00",
-    "expiryDate": "2029-05-13T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "0778d72a-b96e-4c40-ad59-ae7b2522f863"
-  },
-  {
-    "organisationName": "Priceline Pharmacy Warringah Mall",
-    "tradingName": null,
     "certificateNumber": "5507",
     "certifiedBy": "Pharmacy Guild of Australia",
     "city": "BROOKVALE",
@@ -62985,19 +62955,19 @@
     "certificateId": "d6f0505f-6bed-4a3b-8b0f-8c4b4be0ec6f"
   },
   {
-    "organisationName": "Priceline Pharmacy Warwick",
+    "organisationName": "Priceline Pharmacy Warringah Mall",
     "tradingName": null,
-    "certificateNumber": "4348",
+    "certificateNumber": "5724",
     "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WARWICK",
+    "city": "BROOKVALE",
     "country": "Australia",
     "status": "Active",
-    "currentCertificationDate": "2025-10-15T00:00:00",
-    "expiryDate": "2028-11-13T00:00:00",
+    "currentCertificationDate": "2026-05-20T00:00:00",
+    "expiryDate": "2029-05-13T00:00:00",
     "scopes": [
       "QCPP-PGA:AS 85000:2017"
     ],
-    "certificateId": "d6df2fd5-b0cf-ed11-a7c7-00224818a490"
+    "certificateId": "0778d72a-b96e-4c40-ad59-ae7b2522f863"
   },
   {
     "organisationName": "Priceline Pharmacy Warwick",
@@ -63013,6 +62983,21 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "5a504b75-accf-ed11-a7c7-00224818a490"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Warwick",
+    "tradingName": null,
+    "certificateNumber": "4348",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WARWICK",
+    "country": "Australia",
+    "status": "Active",
+    "currentCertificationDate": "2025-10-15T00:00:00",
+    "expiryDate": "2028-11-13T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "d6df2fd5-b0cf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Priceline Pharmacy Watergardens",
@@ -80940,21 +80925,6 @@
     "certificateId": "c0847955-b2cf-ed11-a7c7-00224818ac1c"
   },
   {
-    "organisationName": "United Chemists Andergrove",
-    "tradingName": null,
-    "certificateNumber": "697",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "ANDERGROVE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-21T00:00:00",
-    "expiryDate": "2026-11-21T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "86f8496c-b4cf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "United Chemists Banora Point",
     "tradingName": null,
     "certificateNumber": "1655",
@@ -83488,21 +83458,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "8af369e0-200b-4f5e-ad7a-06b0d6aad3f6"
-  },
-  {
-    "organisationName": "Western Plains Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "5119",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "DUBBO",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-21T00:00:00",
-    "expiryDate": "2026-11-21T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "daeb6ecb-b45c-451c-83a3-b7ee68d5d6da"
   },
   {
     "organisationName": "Westfield Pharmacy",
@@ -86338,6 +86293,54 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Complete Care Pharmacy Burnie",
+    "tradingName": null,
+    "certificateNumber": "211",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BURNIE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-21T00:00:00",
+    "expiryDate": "2026-11-21T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "335c42fb-b1cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-11-20T01:05:44.724Z"
+  },
+  {
+    "organisationName": "United Chemists Andergrove",
+    "tradingName": null,
+    "certificateNumber": "697",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "ANDERGROVE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-21T00:00:00",
+    "expiryDate": "2026-11-21T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "86f8496c-b4cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-11-20T01:05:44.724Z"
+  },
+  {
+    "organisationName": "Western Plains Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "5119",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "DUBBO",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-21T00:00:00",
+    "expiryDate": "2026-11-21T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "daeb6ecb-b45c-451c-83a3-b7ee68d5d6da",
+    "delistedAt": "2026-11-20T01:05:44.724Z"
   },
   {
     "organisationName": "Churchill Centre Pharmacy",
