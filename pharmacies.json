@@ -31515,21 +31515,6 @@
     "certificateId": "6fa45be7-b1cf-ed11-a7c7-00224818ac1c"
   },
   {
-    "organisationName": "F&M Chemist",
-    "tradingName": null,
-    "certificateNumber": "6014",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "NEDLANDS",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-24T00:00:00",
-    "expiryDate": "2026-11-24T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "a41ac540-5b89-40fc-8f0c-b1976ee2f81b"
-  },
-  {
     "organisationName": "Fairfield AAA Chemist",
     "tradingName": null,
     "certificateNumber": "4567",
@@ -66480,21 +66465,6 @@
     "certificateId": "4588926c-c2bd-417a-8eb9-96835b5827ef"
   },
   {
-    "organisationName": "Salisbury Discount Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "781",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "SALISBURY",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-23T00:00:00",
-    "expiryDate": "2026-11-23T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "814e5e25-b2cf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "Salisbury North Pharmacist Advice",
     "tradingName": null,
     "certificateNumber": "1855",
@@ -78195,21 +78165,6 @@
     "certificateId": "dde42414-b3cf-ed11-a7c7-00224818a1d1"
   },
   {
-    "organisationName": "TerryWhite Chemmart Woree",
-    "tradingName": null,
-    "certificateNumber": "1795",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "WOREE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-23T00:00:00",
-    "expiryDate": "2026-11-23T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "35cb1bab-b0cf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "TerryWhite Chemmart Wynn Vale",
     "tradingName": null,
     "certificateNumber": "2749",
@@ -86278,6 +86233,54 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "F&M Chemist",
+    "tradingName": null,
+    "certificateNumber": "6014",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "NEDLANDS",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-24T00:00:00",
+    "expiryDate": "2026-11-24T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "a41ac540-5b89-40fc-8f0c-b1976ee2f81b",
+    "delistedAt": "2026-11-23T00:02:35.850Z"
+  },
+  {
+    "organisationName": "Salisbury Discount Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "781",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "SALISBURY",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-23T00:00:00",
+    "expiryDate": "2026-11-23T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "814e5e25-b2cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-11-23T00:02:35.850Z"
+  },
+  {
+    "organisationName": "TerryWhite Chemmart Woree",
+    "tradingName": null,
+    "certificateNumber": "1795",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "WOREE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-23T00:00:00",
+    "expiryDate": "2026-11-23T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "35cb1bab-b0cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-11-23T00:02:35.850Z"
   },
   {
     "organisationName": "Bill Warner Chemist",
