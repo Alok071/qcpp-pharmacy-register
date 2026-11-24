@@ -24900,21 +24900,6 @@
     "certificateId": "68353026-d34b-4f8b-911a-768bdf6927ff"
   },
   {
-    "organisationName": "Concord Road Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "5052",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "NORTH STRATHFIELD",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-25T00:00:00",
-    "expiryDate": "2026-11-25T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "ab83f3c5-accf-ed11-a7c7-00224818a1d1"
-  },
-  {
     "organisationName": "Concord West Pharmacy",
     "tradingName": null,
     "certificateNumber": "4067",
@@ -81210,21 +81195,6 @@
     "certificateId": "31aaecd9-b3cf-ed11-a7c7-00224818a1d1"
   },
   {
-    "organisationName": "United Chemists Tennant Creek",
-    "tradingName": null,
-    "certificateNumber": "4564",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "TENNANT CREEK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-25T00:00:00",
-    "expiryDate": "2026-11-25T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "19dbab8e-b0cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "United Chemists West Mackay",
     "tradingName": null,
     "certificateNumber": "6406",
@@ -86233,6 +86203,38 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Concord Road Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "5052",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "NORTH STRATHFIELD",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-25T00:00:00",
+    "expiryDate": "2026-11-25T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "ab83f3c5-accf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-11-24T04:14:03.796Z"
+  },
+  {
+    "organisationName": "United Chemists Tennant Creek",
+    "tradingName": null,
+    "certificateNumber": "4564",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "TENNANT CREEK",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-25T00:00:00",
+    "expiryDate": "2026-11-25T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "19dbab8e-b0cf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-11-24T04:14:03.797Z"
   },
   {
     "organisationName": "F&M Chemist",
