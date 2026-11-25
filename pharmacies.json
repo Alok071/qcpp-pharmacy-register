@@ -2565,21 +2565,6 @@
     "certificateId": "4484f3c5-accf-ed11-a7c7-00224818a1d1"
   },
   {
-    "organisationName": "Aratula Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "7023",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "ARATULA",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-26T00:00:00",
-    "expiryDate": "2026-11-26T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "f427e6f8-05b3-4536-9a07-f0a0bb7804fd"
-  },
-  {
     "organisationName": "Arcade Pharmacy",
     "tradingName": null,
     "certificateNumber": "1591",
@@ -27343,21 +27328,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "1f578bba-026a-4e33-a3f8-2e5217dc3239"
-  },
-  {
-    "organisationName": "Direct Chemist Outlet Berwick",
-    "tradingName": null,
-    "certificateNumber": "7012",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BERWICK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-26T00:00:00",
-    "expiryDate": "2026-11-26T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "1eddbf14-f49c-47b5-b734-1758a0b7ff88"
   },
   {
     "organisationName": "Direct Chemist Outlet Botanical Village",
@@ -58965,21 +58935,6 @@
     "certificateId": "5740bb8f-aecf-ed11-a7c7-00224818ac1c"
   },
   {
-    "organisationName": "Priceline Pharmacy Fawkner",
-    "tradingName": null,
-    "certificateNumber": "5519",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "FAWKNER",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-26T00:00:00",
-    "expiryDate": "2026-11-26T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "18ce703f-70b8-4b9d-bf7d-4ef47d522267"
-  },
-  {
     "organisationName": "Priceline Pharmacy Findlay & Weymouth",
     "tradingName": null,
     "certificateNumber": "401",
@@ -67558,21 +67513,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "5a66006c-f2ac-4f4a-bd05-ad2b0b72d607"
-  },
-  {
-    "organisationName": "Slade Pharmacy Buderim",
-    "tradingName": null,
-    "certificateNumber": "7005",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BUDERIM",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-26T00:00:00",
-    "expiryDate": "2026-11-26T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "58e2c0f9-73ad-4f1d-9041-d4347a966497"
   },
   {
     "organisationName": "Slade Pharmacy Camberwell",
@@ -86203,6 +86143,70 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Aratula Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "7023",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "ARATULA",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-26T00:00:00",
+    "expiryDate": "2026-11-26T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "f427e6f8-05b3-4536-9a07-f0a0bb7804fd",
+    "delistedAt": "2026-11-25T02:58:49.174Z"
+  },
+  {
+    "organisationName": "Direct Chemist Outlet Berwick",
+    "tradingName": null,
+    "certificateNumber": "7012",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BERWICK",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-26T00:00:00",
+    "expiryDate": "2026-11-26T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "1eddbf14-f49c-47b5-b734-1758a0b7ff88",
+    "delistedAt": "2026-11-25T02:58:49.174Z"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Fawkner",
+    "tradingName": null,
+    "certificateNumber": "5519",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "FAWKNER",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-26T00:00:00",
+    "expiryDate": "2026-11-26T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "18ce703f-70b8-4b9d-bf7d-4ef47d522267",
+    "delistedAt": "2026-11-25T02:58:49.174Z"
+  },
+  {
+    "organisationName": "Slade Pharmacy Buderim",
+    "tradingName": null,
+    "certificateNumber": "7005",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BUDERIM",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-26T00:00:00",
+    "expiryDate": "2026-11-26T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "58e2c0f9-73ad-4f1d-9041-d4347a966497",
+    "delistedAt": "2026-11-25T02:58:49.174Z"
   },
   {
     "organisationName": "Concord Road Pharmacy",
