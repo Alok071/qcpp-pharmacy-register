@@ -585,21 +585,6 @@
     "certificateId": "5b3c7c5d-adcf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Albany Amcal Max",
-    "tradingName": null,
-    "certificateNumber": "232",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "ALBANY",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-27T00:00:00",
-    "expiryDate": "2026-11-27T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "93f57a9f-abcf-ed11-a7c7-00224818a1d1"
-  },
-  {
     "organisationName": "Albany Community Pharmacy 777",
     "tradingName": null,
     "certificateNumber": "3899",
@@ -32400,21 +32385,6 @@
     "certificateId": "b04917bf-49c6-42ef-b2d8-858707724698"
   },
   {
-    "organisationName": "Frankston South Discount Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "2652",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "FRANKSTON SOUTH",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-27T00:00:00",
-    "expiryDate": "2026-11-27T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "009354bd-b1cf-ed11-a7c7-6045bd3d5090"
-  },
-  {
     "organisationName": "Fraz Family Pharmacy Highett",
     "tradingName": null,
     "certificateNumber": "6298",
@@ -61950,21 +61920,6 @@
     "certificateId": "de12fb56-0392-4db5-bd63-6d68c6189b93"
   },
   {
-    "organisationName": "Priceline Pharmacy Smithfield",
-    "tradingName": null,
-    "certificateNumber": "5412",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "SMITHFIELD",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-27T00:00:00",
-    "expiryDate": "2026-11-27T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "2e2df928-339c-4ac3-bed7-43e485ae322a"
-  },
-  {
     "organisationName": "Priceline Pharmacy South City Square",
     "tradingName": null,
     "certificateNumber": "6903",
@@ -70768,21 +70723,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "14c8c821-b3cc-4ebf-8b61-bb51fe110f55"
-  },
-  {
-    "organisationName": "Swansea Discount  Drug Store",
-    "tradingName": null,
-    "certificateNumber": "2855",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "SWANSEA",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-27T00:00:00",
-    "expiryDate": "2026-11-27T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "7dcdad7c-2366-4156-9028-5d7d22291e74"
   },
   {
     "organisationName": "Swansea Pharmacy",
@@ -86143,6 +86083,70 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Albany Amcal Max",
+    "tradingName": null,
+    "certificateNumber": "232",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "ALBANY",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-27T00:00:00",
+    "expiryDate": "2026-11-27T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "93f57a9f-abcf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-11-26T02:05:44.282Z"
+  },
+  {
+    "organisationName": "Frankston South Discount Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "2652",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "FRANKSTON SOUTH",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-27T00:00:00",
+    "expiryDate": "2026-11-27T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "009354bd-b1cf-ed11-a7c7-6045bd3d5090",
+    "delistedAt": "2026-11-26T02:05:44.283Z"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Smithfield",
+    "tradingName": null,
+    "certificateNumber": "5412",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "SMITHFIELD",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-27T00:00:00",
+    "expiryDate": "2026-11-27T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "2e2df928-339c-4ac3-bed7-43e485ae322a",
+    "delistedAt": "2026-11-26T02:05:44.283Z"
+  },
+  {
+    "organisationName": "Swansea Discount  Drug Store",
+    "tradingName": null,
+    "certificateNumber": "2855",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "SWANSEA",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-27T00:00:00",
+    "expiryDate": "2026-11-27T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "7dcdad7c-2366-4156-9028-5d7d22291e74",
+    "delistedAt": "2026-11-26T02:05:44.283Z"
   },
   {
     "organisationName": "Aratula Pharmacy",
