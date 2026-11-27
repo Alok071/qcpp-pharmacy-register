@@ -27450,21 +27450,6 @@
     "certificateId": "9fee7ab6-b2cf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Direct Chemist Outlet Centro Somerville",
-    "tradingName": null,
-    "certificateNumber": "5652",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "SOMERVILLE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-11-29T00:00:00",
-    "expiryDate": "2026-11-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "bd3ab132-fbbb-43a0-9a49-22e0fcbe2136"
-  },
-  {
     "organisationName": "Direct Chemist Outlet Charlemont Rise",
     "tradingName": null,
     "certificateNumber": "7077",
@@ -52770,21 +52755,6 @@
     "certificateId": "54ec42e6-efdd-45bb-9baf-ea6fa894a47a"
   },
   {
-    "organisationName": "Parfrey Road Chempro Chemist",
-    "tradingName": null,
-    "certificateNumber": "3035",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "ROCHEDALE",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-28T00:00:00",
-    "expiryDate": "2026-11-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "ee7a853b-accf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "Park Avenue Pharmacy",
     "tradingName": null,
     "certificateNumber": "6770",
@@ -61978,21 +61948,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "db015ce2-b3cf-ed11-a7c7-00224818ac1c"
-  },
-  {
-    "organisationName": "Priceline Pharmacy Spencer Park",
-    "tradingName": null,
-    "certificateNumber": "2650",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "SPENCER PARK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-28T00:00:00",
-    "expiryDate": "2026-11-28T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "a9674cb2-b1cf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Priceline Pharmacy Spring Hill",
@@ -86083,6 +86038,54 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Direct Chemist Outlet Centro Somerville",
+    "tradingName": null,
+    "certificateNumber": "5652",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "SOMERVILLE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-11-29T00:00:00",
+    "expiryDate": "2026-11-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "bd3ab132-fbbb-43a0-9a49-22e0fcbe2136",
+    "delistedAt": "2026-11-27T02:04:32.802Z"
+  },
+  {
+    "organisationName": "Parfrey Road Chempro Chemist",
+    "tradingName": null,
+    "certificateNumber": "3035",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "ROCHEDALE",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-28T00:00:00",
+    "expiryDate": "2026-11-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "ee7a853b-accf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-11-27T02:04:32.802Z"
+  },
+  {
+    "organisationName": "Priceline Pharmacy Spencer Park",
+    "tradingName": null,
+    "certificateNumber": "2650",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "SPENCER PARK",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-28T00:00:00",
+    "expiryDate": "2026-11-28T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "a9674cb2-b1cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-11-27T02:04:32.802Z"
   },
   {
     "organisationName": "Albany Amcal Max",
