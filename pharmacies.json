@@ -585,21 +585,6 @@
     "certificateId": "5b3c7c5d-adcf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Albany Community Pharmacy 777",
-    "tradingName": null,
-    "certificateNumber": "3899",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "ALBANY",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-29T00:00:00",
-    "expiryDate": "2026-11-29T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "a0afefa7-b5cf-ed11-a7c7-00224818ac1c"
-  },
-  {
     "organisationName": "Albany Creek Discount Chemist",
     "tradingName": null,
     "certificateNumber": "103",
@@ -3448,21 +3433,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "84c14419-afcf-ed11-a7c7-6045bd3d5090"
-  },
-  {
-    "organisationName": "Ballan UFS Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "3284",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "BALLAN",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-29T00:00:00",
-    "expiryDate": "2026-11-29T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "a551ccb0-b0cf-ed11-a7c7-00224818a1d1"
   },
   {
     "organisationName": "Ballandean Pharmacy",
@@ -21075,21 +21045,6 @@
     "certificateId": "6bb56663-b5cf-ed11-a7c7-6045bd3d5090"
   },
   {
-    "organisationName": "Chemist Warehouse Sunnybank Plaza",
-    "tradingName": null,
-    "certificateNumber": "6569",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "SUNNYBANK",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-29T00:00:00",
-    "expiryDate": "2026-11-29T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "f2a89075-aa77-4ac3-a923-8ade14b2bbdf"
-  },
-  {
     "organisationName": "Chemist Warehouse Sunshine",
     "tradingName": null,
     "certificateNumber": "36",
@@ -38700,21 +38655,6 @@
     "certificateId": "cd8060e4-afcf-ed11-a7c7-00224818a1d1"
   },
   {
-    "organisationName": "Humphries Road Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "6026",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "FRANKSTON SOUTH",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-29T00:00:00",
-    "expiryDate": "2026-11-29T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "d5d2d375-8817-4f69-9cf3-d1a79888699a"
-  },
-  {
     "organisationName": "Hunt Club Discount Drug Store",
     "tradingName": null,
     "certificateNumber": "6374",
@@ -46858,21 +46798,6 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "f8134b3a-7240-40ca-bf5a-a0e8a550315c"
-  },
-  {
-    "organisationName": "Miller Street Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "3709",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "PYRMONT",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-29T00:00:00",
-    "expiryDate": "2026-11-29T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "c163bdc1-b2cf-ed11-a7c7-00224818a490"
   },
   {
     "organisationName": "Millers Pharmacy",
@@ -71025,21 +70950,6 @@
     "certificateId": "6f324329-88e1-4249-81f7-f4a71d0d6712"
   },
   {
-    "organisationName": "Tasman Pharmacy",
-    "tradingName": null,
-    "certificateNumber": "5308",
-    "certifiedBy": "Pharmacy Guild of Australia",
-    "city": "NUBEENA",
-    "country": "Australia",
-    "status": "Active",
-    "currentCertificationDate": "2024-08-29T00:00:00",
-    "expiryDate": "2026-11-29T00:00:00",
-    "scopes": [
-      "QCPP-PGA:AS 85000:2017"
-    ],
-    "certificateId": "771685fb-b3cf-ed11-a7c7-00224818a490"
-  },
-  {
     "organisationName": "Tathra Pharmacy",
     "tradingName": null,
     "certificateNumber": "3325",
@@ -86038,6 +85948,102 @@
       "QCPP-PGA:AS 85000:2017"
     ],
     "certificateId": "6fd3ce19-adcf-ed11-a7c7-00224818a1d1"
+  },
+  {
+    "organisationName": "Albany Community Pharmacy 777",
+    "tradingName": null,
+    "certificateNumber": "3899",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "ALBANY",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-29T00:00:00",
+    "expiryDate": "2026-11-29T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "a0afefa7-b5cf-ed11-a7c7-00224818ac1c",
+    "delistedAt": "2026-11-28T01:49:07.991Z"
+  },
+  {
+    "organisationName": "Ballan UFS Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "3284",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "BALLAN",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-29T00:00:00",
+    "expiryDate": "2026-11-29T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "a551ccb0-b0cf-ed11-a7c7-00224818a1d1",
+    "delistedAt": "2026-11-28T01:49:07.991Z"
+  },
+  {
+    "organisationName": "Chemist Warehouse Sunnybank Plaza",
+    "tradingName": null,
+    "certificateNumber": "6569",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "SUNNYBANK",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-29T00:00:00",
+    "expiryDate": "2026-11-29T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "f2a89075-aa77-4ac3-a923-8ade14b2bbdf",
+    "delistedAt": "2026-11-28T01:49:07.991Z"
+  },
+  {
+    "organisationName": "Humphries Road Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "6026",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "FRANKSTON SOUTH",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-29T00:00:00",
+    "expiryDate": "2026-11-29T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "d5d2d375-8817-4f69-9cf3-d1a79888699a",
+    "delistedAt": "2026-11-28T01:49:07.991Z"
+  },
+  {
+    "organisationName": "Miller Street Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "3709",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "PYRMONT",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-29T00:00:00",
+    "expiryDate": "2026-11-29T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "c163bdc1-b2cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-11-28T01:49:07.991Z"
+  },
+  {
+    "organisationName": "Tasman Pharmacy",
+    "tradingName": null,
+    "certificateNumber": "5308",
+    "certifiedBy": "Pharmacy Guild of Australia",
+    "city": "NUBEENA",
+    "country": "Australia",
+    "status": "Expired",
+    "currentCertificationDate": "2024-08-29T00:00:00",
+    "expiryDate": "2026-11-29T00:00:00",
+    "scopes": [
+      "QCPP-PGA:AS 85000:2017"
+    ],
+    "certificateId": "771685fb-b3cf-ed11-a7c7-00224818a490",
+    "delistedAt": "2026-11-28T01:49:07.991Z"
   },
   {
     "organisationName": "Direct Chemist Outlet Centro Somerville",
